@@ -6,6 +6,7 @@ import { Providers } from "@/components/providers";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
+import Header from "@/components/layout/header";
 const fontSans = Geist({
   subsets: ["latin"],
   variable: "--font-sans",
@@ -36,7 +37,10 @@ export default async function LocaleLayout({
         className={`${fontSans.variable} ${fontMono.variable} font-sans antialiased `}>
         {" "}
         <NextIntlClientProvider>
-          <Providers>{children}</Providers>
+          <Providers>
+            <Header />
+            {children}
+          </Providers>
         </NextIntlClientProvider>
       </body>
     </html>
