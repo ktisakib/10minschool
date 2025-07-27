@@ -1,0 +1,25 @@
+{
+  "name": "@enterprise/trpc",
+  "version": "1.0.0",
+  "private": true,
+  "exports": {
+    "./router": "./src/server/root.ts",
+    "./client": "./src/client/client.ts",
+    "./trpc-provider": "./src/client/providers/trpc-provider.tsx",
+    "./trpc": "./src/server/trpc.ts"
+  },
+  "dependencies": {
+    "@enterprise/db": "workspace:*",
+    "zod": "catalog:",
+    "@trpc/server": "catalog:",
+    "@trpc/react-query": "catalog:",
+    "@tanstack/react-query": "catalog:",
+    "@trpc/client": "catalog:",
+    "react": "catalog:",
+    "superjson": "catalog:"
+  },
+  "devDependencies": {
+    "@types/react": "catalog:",
+    "@enterprise/typescript-config": "workspace:*"
+  }
+}

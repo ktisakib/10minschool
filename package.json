@@ -1,0 +1,44 @@
+{
+  "name": "enterprise",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "test:watch": "turbo run test:watch",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "add-component": "cd apps/web && pnpx shadcn add",
+    "storybook": "turbo storybook",
+    "storybook:web": "pnpm --filter @enterprise/web storybook",
+    "storybook:ui": "pnpm --filter @enterprise/ui storybook",
+    "clean": "find . -name 'node_modules' -type d -prune -exec rm -rf '{}' + && rm -rf .turbo",
+    "db:setup": "pnpm --filter @enterprise/db db:push",
+    "db:push": "pnpm --filter @enterprise/db db:push",
+    "db:studio": "pnpm --filter @enterprise/db db:studio",
+    "db:generate": "pnpm --filter @enterprise/db db:generate",
+    "auth:generate": "pnpm --filter @enterprise/web generate"
+  },
+  "devDependencies": {
+    "@enterprise/eslint-config": "workspace:*",
+    "@enterprise/typescript-config": "workspace:*",
+    "eslint-config-turbo": "catalog:",
+    "prettier": "catalog:",
+    "turbo": "catalog:",
+    "typescript": "catalog:"
+  },
+  "packageManager": "pnpm@10.4.1",
+  "engines": {
+    "node": ">=20"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@tailwindcss/oxide",
+      "core-js-pure",
+      "esbuild",
+      "sharp",
+      "unrs-resolver"
+    ]
+  }
+}

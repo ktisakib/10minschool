@@ -1,0 +1,50 @@
+{
+  "name": "@enterprise/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./src/index.ts"
+    },
+    "./client": {
+      "types": "./dist/client.d.ts",
+      "default": "./src/client.ts"
+    },
+    "./schema": {
+      "types": "./dist/schema.d.ts",
+      "default": "./src/schema.ts"
+    }
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "git clean -xdf .cache .turbo dist node_modules",
+    "dev": "tsc",
+    "format": "prettier --check . --ignore-path ../../.gitignore",
+    "lint": "eslint",
+    "db:push": "pnpm with-env drizzle-kit push",
+    "db:studio": "pnpm with-env drizzle-kit studio",
+    "db:generate": "pnpm with-env drizzle-kit generate",
+    "typecheck": "tsc --noEmit --emitDeclarationOnly false",
+    "with-env": "dotenv -e ../../.env --"
+  },
+  "dependencies": {
+    "postgres": "catalog:",
+    "drizzle-orm": "catalog:",
+    "drizzle-zod": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@enterprise/eslint-config": "workspace:*",
+    "@enterprise/typescript-config": "workspace:*",
+    "@types/node": "catalog:",
+    "dotenv-cli": "catalog:",
+    "drizzle-kit": "catalog:",
+    "eslint": "catalog:",
+    "prettier": "catalog:",
+    "typescript": "catalog:"
+  },
+  "prettier": "@enterprise/prettier-config"
+}

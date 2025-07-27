@@ -1,0 +1,12 @@
+{
+  "extends": "@enterprise/typescript-config/react-library.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@enterprise/ui/*": ["./src/*"]
+    },
+    "types": ["jest", "@testing-library/jest-dom"]
+  },
+  "include": ["."],
+  "exclude": ["node_modules", "dist"]
+}
