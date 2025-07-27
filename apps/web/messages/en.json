@@ -5,5 +5,72 @@
   },
   "Manifest": {
     "name": "next-intl example"
+  },
+  "Header": {
+    "nav": {
+      "class6_12": "Class 6-12",
+      "skills": "Skills",
+      "admission": "Admission",
+      "online_batch": "Online Batch",
+      "english_centre": "English Centre",
+      "more": "More"
+    },
+    "search": {
+      "placeholder": "What would you like to learn today?",
+      "popular_searches": "Popular Searches",
+      "recent_searches": "Recent Searches",
+      "no_results": "No results found",
+      "clear_recent": "Clear Recent",
+      "loading": "Loading..."
+    },
+    "language": "বাং",
+    "login": "Login",
+    "phone": "16910"
+  },
+  "Navigation": {
+    "class6_12": {
+      "hsc": "HSC",
+      "class_ten": "Class Ten",
+      "class_nine": "Class Nine",
+      "class_eight": "Class Eight",
+      "class_seven": "Class Seven",
+      "class_six": "Class Six"
+    },
+    "skills": {
+      "all_courses": "All courses",
+      "language_learning": "Language Learning",
+      "freelancing": "Freelancing",
+      "bundle": "Bundle",
+      "skills_it": "Skills & IT",
+      "design_creative": "Design & Creative",
+      "career_readiness": "Career Readiness",
+      "kids": "Kids (Age 7-14)",
+      "professional": "Professional",
+      "free": "Free"
+    },
+    "more": {
+      "job_preparation": "Job Preparation Courses",
+      "blog": "Blog",
+      "book_store": "Book Store",
+      "free_notes": "Free Notes & Guides",
+      "academic_content": "Academic Digital Content",
+      "verify_certificate": "Verify Certificate",
+      "career_recruitment": "Career / Recruitment",
+      "join_teacher": "Join as a Teacher",
+      "join_affiliate": "Join as an Affiliate"
+    },
+    "online_batch": {
+      "class_six_ten": "Online Batch (Class 6-10)",
+      "hsc_program": "HSC Program"
+    },
+
+    "english_centre": {
+      "all_programmes": "All Programmes",
+      "ielts": "IELTS",
+      "spoken_english": "Spoken English",
+      "business_english": "Business English",
+      "kids_english": "Kids English",
+      "english_foundation": "English Foundation"
+    }
   }
 }

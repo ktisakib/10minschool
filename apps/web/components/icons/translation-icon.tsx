@@ -1,23 +1,17 @@
+import React, { SVGProps } from 'react';
 import { cn } from '@enterprise/ui/lib/utils';
-import React from 'react';
 
-interface TranslationIconProps {
-    className?: string;
-    size?: number;
-}
 
-const TranslationIcon: React.FC<TranslationIconProps> = ({
-    className,
-    size
-}) => {
+
+const TranslationIcon: React.FC<SVGProps<SVGSVGElement>>  = (props) => {
     return (
         <svg
-            width={size || 16}
-            height={size || 16}
+            width={ 16 }
+            height={ 16 }
             viewBox="0 0 15 14"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
-            className={cn("h-6 w-6", className)}
+            className={ cn("h-6 w-6", props.className) }
         >
             <g clipPath="url(#clip0_9494_69309)">
                 <path
@@ -31,7 +25,7 @@ const TranslationIcon: React.FC<TranslationIconProps> = ({
             </g>
             <defs>
                 <clipPath id="clip0_9494_69309">
-                    <rect width="14" height="14" fill="white" transform="translate(0.291992)"/>
+                    <rect width="14" height="14" fill="white" transform="translate(0.291992)" />
                 </clipPath>
             </defs>
         </svg>

@@ -1,4 +1,4 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Inter } from "next/font/google";
 
 import "@enterprise/ui/globals.css";
 import { Providers } from "@/components/providers";
@@ -7,14 +7,9 @@ import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import Header from "@/components/layout/header";
-const fontSans = Geist({
+const fontSans = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
-});
-
-const fontMono = Geist_Mono({
-  subsets: ["latin"],
-  variable: "--font-mono",
 });
 
 export default async function LocaleLayout({
@@ -33,9 +28,7 @@ export default async function LocaleLayout({
     <html
       lang={locale}
       suppressHydrationWarning>
-      <body
-        className={`${fontSans.variable} ${fontMono.variable} font-sans antialiased `}>
-        {" "}
+      <body className={`${fontSans.variable}  font-sans antialiased `}>
         <NextIntlClientProvider>
           <Providers>
             <Header />

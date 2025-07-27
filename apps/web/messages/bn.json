@@ -3,7 +3,74 @@
     "title": "হ্যালো ওয়ার্ল্ড!",
     "about": "অ্যাবাউট পেজে যান"
   },
-    "Manifest": {
-        "name": "নেক্সট-ইন্টেল উদাহরণ"
+  "Manifest": {
+    "name": "নেক্সট-ইন্টেল উদাহরণ"
+  },
+  "Header": {
+    "nav": {
+      "class6_12": "ক্লাস ৬-১২",
+      "skills": "স্কিলস",
+      "admission": "অ্যাডমিশন",
+      "online_batch": "অনলাইন ব্যাচ",
+      "english_centre": "ইংলিশ সেন্টার",
+      "more": "আরো"
+    },
+    "search": {
+      "placeholder": "আজকে কী শিখতে চান?",
+      "popular_searches": "জনপ্রিয় অনুসন্ধান",
+      "recent_searches": "সাম্প্রতিক অনুসন্ধান",
+      "no_results": "কোনো ফলাফল পাওয়া যায়নি",
+      "clear_recent": "ক্লিয়ার করুন",
+      "loading": "লোড হচ্ছে..."
+    },
+    "language": "En",
+    "login": "লগ-ইন",
+    "phone": "১৬৯১০"
+  },
+  "Navigation": {
+    "class6_12": {
+      "hsc": "এইচএসসি",
+      "class_ten": "দশম শ্রেণি",
+      "class_nine": "নবম শ্রেণি",
+      "class_eight": "অষ্টম শ্রেণি",
+      "class_seven": "সপ্তম শ্রেণি",
+      "class_six": "ষষ্ঠ শ্রেণি"
+    },
+    "skills": {
+      "all_courses": "সব কোর্স",
+      "language_learning": "ভাষা শিক্ষা",
+      "freelancing": "ফ্রিল্যান্সিং",
+      "bundle": "বান্ডেল",
+      "skills_it": "স্কিলস ও আইটি",
+      "design_creative": "ডিজাইন ও ক্রিয়েটিভ",
+      "career_readiness": "ক্যারিয়ার রেডিনেস",
+      "kids": "বাচ্চাদের (৭-১৪ বছর)",
+      "professional": "পেশাদার",
+      "free": "ফ্রি"
+    },
+    "more": {
+      "job_preparation": "চাকরির প্রস্তুতি কোর্স",
+      "blog": "ব্লগ",
+      "book_store": "বুক স্টোর",
+      "free_notes": "ফ্রি নোটস ও গাইড",
+      "academic_content": "একাডেমিক ডিজিটাল কন্টেন্ট",
+      "verify_certificate": "সার্টিফিকেট যাচাই",
+      "career_recruitment": "ক্যারিয়ার / নিয়োগ",
+      "join_teacher": "শিক্ষক হিসেবে যোগ দিন",
+      "join_affiliate": "অ্যাফিলিয়েট হিসেবে যোগ দিন"
+    },
+
+    "online_batch": {
+      "class_six_ten": "অনলাইন ব্যাচ (ক্লাস ৬-১০)",
+      "hsc_program": "এইচএসসি"
+    },
+    "english_centre": {
+      "all_programmes": "সব প্রোগ্রাম",
+      "ielts": "আইইএলটিএস",
+      "spoken_english": "স্পোকেন ইংলিশ",
+      "business_english": "বিজনেস ইংলিশ",
+      "kids_english": "বাচ্চাদের ইংলিশ",
+      "english_foundation": "ইংলিশ ফাউন্ডেশন"
     }
+  }
 }
