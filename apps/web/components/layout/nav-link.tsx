@@ -1,9 +1,6 @@
-import React from 'react'
+import Link from "next/link";
+const NavLink = ({ title, url }: { title: string; url: string }) => {
+    return <Link href={ url }>{title}</Link>;
+};
 
-const NavLink = () => {
-  return (
-    <div>NavLink</div>
-  )
-}
-
-export default NavLink
+export default NavLink;
