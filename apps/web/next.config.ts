@@ -1,4 +1,6 @@
 import type { NextConfig } from "next";
+import createNextIntlPlugin from 'next-intl/plugin';
+
 
 const nextConfig: NextConfig = {
     logging: {
@@ -7,7 +9,7 @@ const nextConfig: NextConfig = {
             hmrRefreshes: true,
         },
     },
-    allowedDevOrigins: ["localhost:3000", "localhost:8081", "auth.localhost"],
+    allowedDevOrigins: ["localhost:3000", "localhost:8081"],
     transpilePackages: ["@enterprise/ui", "@enterprise/db", "@enterprise/trpc"],
 
     async headers() {
@@ -33,4 +35,6 @@ const nextConfig: NextConfig = {
     },
 }
 
-export default nextConfig
+const withNextIntl = createNextIntlPlugin();
+
+export default withNextIntl(nextConfig);

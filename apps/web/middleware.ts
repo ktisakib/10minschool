@@ -1,18 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getSessionCookie } from "better-auth/cookies";
+import createMiddleware from "next-intl/middleware";
+import { routing } from "./i18n/routing";
 
-export async function middleware(request: NextRequest) {
+const intlMiddleware = createMiddleware(routing);
+
+
+
+export default async function middleware(request: NextRequest) {
     const sessionCookie = getSessionCookie(request);
+    // Check if this is a protected route before handling i18n
 
-    // THIS IS NOT SECURE!
-    // This is the recommended approach to optimistically redirect users
-    // We recommend handling auth checks in each page/route
-    // if (!sessionCookie) {
-    //     return NextResponse.redirect(new URL("/", request.url));
-    // }
 
-    return NextResponse.next();
+    // Handle internationalization after authentication check
+    return intlMiddleware(request);
 }
+
 export const config = {
     matcher: [
         /*
@@ -21,7 +24,9 @@ export const config = {
          * - _next/static (static files)
          * - _next/image (image optimization files)
          * - favicon.ico (favicon file)
+         *
          */
-        '/((?!api/auth|_next/static|_next/image|favicon.ico).*)',
+
+        '/((?!api/auth|trpc|_next/static|_next/image|favicon.ico).*)',
     ],
 };
