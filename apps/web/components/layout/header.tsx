@@ -17,7 +17,7 @@ const Header = async () => {
 
   return (
     <>
-      <header className='sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60'>
+      <header className='sticky top-0 z-50 w-full border-b border-border/40 bg-background shadow-sm'>
         <div className='container mx-auto max-w-[1400px] px-4'>
           {/* Main Header */}
           <div className='flex h-16 relative items-center gap-4'>
@@ -30,12 +30,12 @@ const Header = async () => {
                 alt='10 Minute School'
                 width={40}
                 height={40}
-                className='h-6 w-auto'
+                className='h-7 w-auto'
               />
             </Link>
 
             {/* Search Bar - Right after logo */}
-            <div className='hidden relative md:flex flex-1 max-w-sm'>
+            <div className='hidden relative md:flex  flex-1  '>
               <SearchBar />
             </div>
 

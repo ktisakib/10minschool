@@ -8,6 +8,7 @@ import SparkSearchIcon from '../icons/spark-search-icon'
 import Form from 'next/form'
 import { SearchItem } from '@/lib/actions/search'
 import { ScrollArea } from "@enterprise/ui/components/scroll-area";
+import { cn } from '@enterprise/ui/lib/utils'
 interface SearchBarProps {
     onSearch?: (query: string) => void
     placeholder?: string
@@ -17,7 +18,7 @@ interface SearchBarProps {
 const SearchBar = ({
     onSearch,
     placeholder,
-    className = "relative flex-1 max-w-xs mx-auto"
+    className
 }: SearchBarProps) => {
     const [searchQuery, setSearchQuery] = useState('')
     const [isActive, setIsActive] = useState(false)
@@ -80,10 +81,10 @@ const SearchBar = ({
     }
 
     return (
-        <div className={ className }>
+        <div className={cn("flex-1 ", className) }>
             <Form action="/search">
                 <div className={ `relative border ${isActive ? 'rounded-t-[24px]' : 'border-border rounded-full'} bg-background transition-all duration-200` }>
-                    <div className="flex items-center gap-3 p-2">
+                    <div className="flex items-center gap-3 px-2 py-1.5">
                         <SparkSearchIcon className={ `h-7 w-7 flex-shrink-0 transition-colors ${isPending
                             ? 'text-primary animate-pulse'
                             : 'text-muted-foreground'

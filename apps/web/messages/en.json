@@ -72,5 +72,14 @@
       "kids_english": "Kids English",
       "english_foundation": "English Foundation"
     }
+  },
+  "Product": {
+    "cta_button": {
+      "original_price": "Original Price",
+      "discount": "Off",
+      "default_text": "Enroll Now",
+      "loading": "Loading..."
+    },
+    "checklist_title": "What's included in this course"
   }
 }

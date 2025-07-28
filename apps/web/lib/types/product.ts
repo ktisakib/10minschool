@@ -122,3 +122,14 @@ export interface ProductResponse {
     payload: any[];
     status_code: number;
 }
+
+export interface RatingData {
+    course_rating: string;
+    rating_text: string;
+}
+
+export interface RatingResponse {
+    code: number;
+    message: string;
+    data: RatingData;
+}

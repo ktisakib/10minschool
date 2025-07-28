@@ -72,5 +72,14 @@
       "kids_english": "বাচ্চাদের ইংলিশ",
       "english_foundation": "ইংলিশ ফাউন্ডেশন"
     }
+  },
+  "Product": {
+    "cta_button": {
+      "original_price": "মূল দাম",
+      "discount": "ছাড়",
+      "default_text": "কোর্সটি কিনুন",
+      "loading": "লোড হচ্ছে..."
+    },
+    "checklist_title": "এই কোর্সে যা থাকছে"
   }
 }
