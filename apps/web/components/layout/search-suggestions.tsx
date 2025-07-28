@@ -5,7 +5,7 @@ import { useTranslations } from 'next-intl'
 import { searchGuides, getPopularSearches, SearchResponse, SearchItem } from '@/lib/actions/search'
 import { useRecentSearches } from '@/hooks/use-recent-searches'
 import { useDebounce } from '@/hooks/use-debounce'
-import { SearchSuggestionSkeleton } from '@/components/ui/search-skeleton'
+import { SearchSuggestionSkeleton } from '@/components/layout/search-skeleton'
 import {
     SearchSuggestionItem,
     RecentSearchItem,
