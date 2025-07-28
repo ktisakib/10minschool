@@ -6,12 +6,8 @@ import { useTranslations } from 'next-intl'
 import { ChevronDown, X } from 'lucide-react'
 import { cn } from '@enterprise/ui/lib/utils'
 
-interface MobileNavProps {
-    isOpen: boolean
-    onClose: () => void
-}
-
-const MobileNav = ({ isOpen, onClose }: MobileNavProps) => {
+const MobileNav = () => {
+    const [isOpen, setIsOpen] = useState(false);
     const t = useTranslations()
     const [openSection, setOpenSection] = useState<string | null>(null)
 
@@ -67,221 +63,226 @@ const MobileNav = ({ isOpen, onClose }: MobileNavProps) => {
     ]
 
     return (
-        <div
-            className={ cn(
-                'fixed inset-0 z-50 lg:hidden',
-                isOpen ? 'visible' : 'invisible'
-            ) }
-        >
-            {/* Backdrop */ }
+        <>
+            <button className="p-2 hover:bg-accent rounded-lg transition-colors" onClick={ () => setIsOpen(true) }>
+                <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="18" x2="21" y2="18" /></svg>
+            </button>
             <div
                 className={ cn(
-                    'absolute inset-0 bg-black/50 transition-opacity',
-                    isOpen ? 'opacity-100' : 'opacity-0'
-                ) }
-                onClick={ onClose }
-            />
-
-            {/* Menu */ }
-            <div
-                className={ cn(
-                    'absolute right-0 top-0 h-full w-80 max-w-full bg-background shadow-lg transition-transform',
-                    isOpen ? 'translate-x-0' : 'translate-x-full'
+                    'fixed inset-0 z-50 lg:hidden',
+                    isOpen ? 'visible' : 'invisible'
                 ) }
             >
-                <div className="flex h-full flex-col">
-                    {/* Header */ }
-                    <div className="flex items-center justify-between border-b p-4">
-                        <h2 className="text-lg font-semibold">Menu</h2>
-                        <button
-                            onClick={ onClose }
-                            className="p-2 hover:bg-accent rounded-lg transition-colors"
-                        >
-                            <X className="h-5 w-5" />
-                        </button>
-                    </div>
+                {/* Backdrop */ }
+                <div
+                    className={ cn(
+                        'absolute inset-0 bg-black/50 transition-opacity',
+                        isOpen ? 'opacity-100' : 'opacity-0'
+                    ) }
+                    onClick={ () => setIsOpen(false) }
+                />
 
-                    {/* Navigation Items */ }
-                    <div className="flex-1 overflow-y-auto p-4">
-                        <div className="space-y-4">
-                            {/* Class 6-12 */ }
-                            <div>
-                                <button
-                                    onClick={ () => toggleSection('class6_12') }
-                                    className="flex w-full items-center justify-between py-2 text-left font-medium"
-                                >
-                                    { t('Header.nav.class6_12') }
-                                    <ChevronDown
-                                        className={ cn(
-                                            'h-4 w-4 transition-transform',
-                                            openSection === 'class6_12' && 'rotate-180'
-                                        ) }
-                                    />
-                                </button>
-                                { openSection === 'class6_12' && (
-                                    <div className="mt-2 space-y-1 pl-4">
-                                        { classItems.map((item) => (
-                                            <Link
-                                                key={ item.key }
-                                                href={ `/class/${item.key}` }
-                                                className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
-                                                onClick={ onClose }
-                                            >
-                                                <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs font-bold` }>
-                                                    { item.icon }
-                                                </div>
-                                                <span className="text-sm">{ t(`Navigation.class6_12.${item.key}`) }</span>
-                                            </Link>
-                                        )) }
-                                    </div>
-                                ) }
-                            </div>
+                {/* Menu */ }
+                <div
+                    className={ cn(
+                        'absolute right-0 top-0 h-full w-80 max-w-full bg-background shadow-lg transition-transform',
+                        isOpen ? 'translate-x-0' : 'translate-x-full'
+                    ) }
+                >
+                    <div className="flex h-full flex-col">
+                        {/* Header */ }
+                        <div className="flex items-center justify-between border-b p-4">
+                            <h2 className="text-lg font-semibold">Menu</h2>
+                            <button
+                                onClick={ () => setIsOpen(false) }
+                                className="p-2 hover:bg-accent rounded-lg transition-colors"
+                            >
+                                <X className="h-5 w-5" />
+                            </button>
+                        </div>
 
-                            {/* Skills */ }
-                            <div>
-                                <button
-                                    onClick={ () => toggleSection('skills') }
-                                    className="flex w-full items-center justify-between py-2 text-left font-medium"
-                                >
-                                    { t('Header.nav.skills') }
-                                    <ChevronDown
-                                        className={ cn(
-                                            'h-4 w-4 transition-transform',
-                                            openSection === 'skills' && 'rotate-180'
-                                        ) }
-                                    />
-                                </button>
-                                { openSection === 'skills' && (
-                                    <div className="mt-2 space-y-1 pl-4">
-                                        { skillsItems.map((item) => (
-                                            <Link
-                                                key={ item.key }
-                                                href={ `/skills/${item.key}` }
-                                                className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
-                                                onClick={ onClose }
-                                            >
-                                                <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
-                                                    { item.icon }
-                                                </div>
-                                                <span className="text-sm">{ t(`Navigation.skills.${item.key}`) }</span>
-                                            </Link>
-                                        )) }
-                                    </div>
-                                ) }
-                            </div>
+                        {/* Navigation Items */ }
+                        <div className="flex-1 overflow-y-auto p-4">
+                            <div className="space-y-4">
+                                {/* Class 6-12 */ }
+                                <div>
+                                    <button
+                                        onClick={ () => toggleSection('class6_12') }
+                                        className="flex w-full items-center justify-between py-2 text-left font-medium"
+                                    >
+                                        { t('Header.nav.class6_12') }
+                                        <ChevronDown
+                                            className={ cn(
+                                                'h-4 w-4 transition-transform',
+                                                openSection === 'class6_12' && 'rotate-180'
+                                            ) }
+                                        />
+                                    </button>
+                                    { openSection === 'class6_12' && (
+                                        <div className="mt-2 space-y-1 pl-4">
+                                            { classItems.map((item) => (
+                                                <Link
+                                                    key={ item.key }
+                                                    href={ `/class/${item.key}` }
+                                                    className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
+                                                    onClick={ () => setIsOpen(false) }
+                                                >
+                                                    <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs font-bold` }>
+                                                        { item.icon }
+                                                    </div>
+                                                    <span className="text-sm">{ t(`Navigation.class6_12.${item.key}`) }</span>
+                                                </Link>
+                                            )) }
+                                        </div>
+                                    ) }
+                                </div>
 
-                            {/* Admission Link */ }
-                            <div>
-                                <Link
-                                    href="/admission"
-                                    className="block py-2 text-left font-medium hover:text-primary transition-colors"
-                                    onClick={ onClose }
-                                >
-                                    { t('Header.nav.admission') }
-                                </Link>
-                            </div>
+                                {/* Skills */ }
+                                <div>
+                                    <button
+                                        onClick={ () => toggleSection('skills') }
+                                        className="flex w-full items-center justify-between py-2 text-left font-medium"
+                                    >
+                                        { t('Header.nav.skills') }
+                                        <ChevronDown
+                                            className={ cn(
+                                                'h-4 w-4 transition-transform',
+                                                openSection === 'skills' && 'rotate-180'
+                                            ) }
+                                        />
+                                    </button>
+                                    { openSection === 'skills' && (
+                                        <div className="mt-2 space-y-1 pl-4">
+                                            { skillsItems.map((item) => (
+                                                <Link
+                                                    key={ item.key }
+                                                    href={ `/skills/${item.key}` }
+                                                    className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
+                                                    onClick={ () => setIsOpen(false) }
+                                                >
+                                                    <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
+                                                        { item.icon }
+                                                    </div>
+                                                    <span className="text-sm">{ t(`Navigation.skills.${item.key}`) }</span>
+                                                </Link>
+                                            )) }
+                                        </div>
+                                    ) }
+                                </div>
 
-                            {/* Online Batch */ }
-                            <div>
-                                <button
-                                    onClick={ () => toggleSection('online_batch') }
-                                    className="flex w-full items-center justify-between py-2 text-left font-medium"
-                                >
-                                    { t('Header.nav.online_batch') }
-                                    <ChevronDown
-                                        className={ cn(
-                                            'h-4 w-4 transition-transform',
-                                            openSection === 'online_batch' && 'rotate-180'
-                                        ) }
-                                    />
-                                </button>
-                                { openSection === 'online_batch' && (
-                                    <div className="mt-2 space-y-1 pl-4">
-                                        { onlineBatchItems.map((item) => (
-                                            <Link
-                                                key={ item.key }
-                                                href={ `/online-batch/${item.key}` }
-                                                className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
-                                                onClick={ onClose }
-                                            >
-                                                <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
-                                                    { item.icon }
-                                                </div>
-                                                <span className="text-sm">{ t(`Navigation.online_batch.${item.key}`) }</span>
-                                            </Link>
-                                        )) }
-                                    </div>
-                                ) }
-                            </div>
+                                {/* Admission Link */ }
+                                <div>
+                                    <Link
+                                        href="/admission"
+                                        className="block py-2 text-left font-medium hover:text-primary transition-colors"
+                                        onClick={ () => setIsOpen(false) }
+                                    >
+                                        { t('Header.nav.admission') }
+                                    </Link>
+                                </div>
 
-                            {/* English Centre */ }
-                            <div>
-                                <button
-                                    onClick={ () => toggleSection('english_centre') }
-                                    className="flex w-full items-center justify-between py-2 text-left font-medium"
-                                >
-                                    { t('Header.nav.english_centre') }
-                                    <ChevronDown
-                                        className={ cn(
-                                            'h-4 w-4 transition-transform',
-                                            openSection === 'english_centre' && 'rotate-180'
-                                        ) }
-                                    />
-                                </button>
-                                { openSection === 'english_centre' && (
-                                    <div className="mt-2 space-y-1 pl-4">
-                                        { englishCentreItems.map((item) => (
-                                            <Link
-                                                key={ item.key }
-                                                href={ `/english-centre/${item.key}` }
-                                                className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
-                                                onClick={ onClose }
-                                            >
-                                                <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
-                                                    { item.icon }
-                                                </div>
-                                                <span className="text-sm">{ t(`Navigation.english_centre.${item.key}`) }</span>
-                                            </Link>
-                                        )) }
-                                    </div>
-                                ) }
-                            </div>
+                                {/* Online Batch */ }
+                                <div>
+                                    <button
+                                        onClick={ () => toggleSection('online_batch') }
+                                        className="flex w-full items-center justify-between py-2 text-left font-medium"
+                                    >
+                                        { t('Header.nav.online_batch') }
+                                        <ChevronDown
+                                            className={ cn(
+                                                'h-4 w-4 transition-transform',
+                                                openSection === 'online_batch' && 'rotate-180'
+                                            ) }
+                                        />
+                                    </button>
+                                    { openSection === 'online_batch' && (
+                                        <div className="mt-2 space-y-1 pl-4">
+                                            { onlineBatchItems.map((item) => (
+                                                <Link
+                                                    key={ item.key }
+                                                    href={ `/online-batch/${item.key}` }
+                                                    className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
+                                                    onClick={ () => setIsOpen(false) }
+                                                >
+                                                    <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
+                                                        { item.icon }
+                                                    </div>
+                                                    <span className="text-sm">{ t(`Navigation.online_batch.${item.key}`) }</span>
+                                                </Link>
+                                            )) }
+                                        </div>
+                                    ) }
+                                </div>
 
-                            {/* More */ }
-                            <div>
-                                <button
-                                    onClick={ () => toggleSection('more') }
-                                    className="flex w-full items-center justify-between py-2 text-left font-medium"
-                                >
-                                    { t('Header.nav.more') }
-                                    <ChevronDown
-                                        className={ cn(
-                                            'h-4 w-4 transition-transform',
-                                            openSection === 'more' && 'rotate-180'
-                                        ) }
-                                    />
-                                </button>
-                                { openSection === 'more' && (
-                                    <div className="mt-2 space-y-1 pl-4">
-                                        { moreItems.map((item) => (
-                                            <Link
-                                                key={ item }
-                                                href={ `/${item.replace('_', '-')}` }
-                                                className="block p-2 text-sm rounded-lg hover:bg-accent transition-colors"
-                                                onClick={ onClose }
-                                            >
-                                                { t(`Navigation.more.${item}`) }
-                                            </Link>
-                                        )) }
-                                    </div>
-                                ) }
+                                {/* English Centre */ }
+                                <div>
+                                    <button
+                                        onClick={ () => toggleSection('english_centre') }
+                                        className="flex w-full items-center justify-between py-2 text-left font-medium"
+                                    >
+                                        { t('Header.nav.english_centre') }
+                                        <ChevronDown
+                                            className={ cn(
+                                                'h-4 w-4 transition-transform',
+                                                openSection === 'english_centre' && 'rotate-180'
+                                            ) }
+                                        />
+                                    </button>
+                                    { openSection === 'english_centre' && (
+                                        <div className="mt-2 space-y-1 pl-4">
+                                            { englishCentreItems.map((item) => (
+                                                <Link
+                                                    key={ item.key }
+                                                    href={ `/english-centre/${item.key}` }
+                                                    className="flex items-center gap-3 p-2 rounded-lg hover:bg-accent transition-colors"
+                                                    onClick={ () => setIsOpen(false) }
+                                                >
+                                                    <div className={ `w-6 h-6 rounded-full ${item.color} flex items-center justify-center text-white text-xs` }>
+                                                        { item.icon }
+                                                    </div>
+                                                    <span className="text-sm">{ t(`Navigation.english_centre.${item.key}`) }</span>
+                                                </Link>
+                                            )) }
+                                        </div>
+                                    ) }
+                                </div>
+
+                                {/* More */ }
+                                <div>
+                                    <button
+                                        onClick={ () => toggleSection('more') }
+                                        className="flex w-full items-center justify-between py-2 text-left font-medium"
+                                    >
+                                        { t('Header.nav.more') }
+                                        <ChevronDown
+                                            className={ cn(
+                                                'h-4 w-4 transition-transform',
+                                                openSection === 'more' && 'rotate-180'
+                                            ) }
+                                        />
+                                    </button>
+                                    { openSection === 'more' && (
+                                        <div className="mt-2 space-y-1 pl-4">
+                                            { moreItems.map((item) => (
+                                                <Link
+                                                    key={ item }
+                                                    href={ `/${item.replace('_', '-')}` }
+                                                    className="block p-2 text-sm rounded-lg hover:bg-accent transition-colors"
+                                                    onClick={ () => setIsOpen(false) }
+                                                >
+                                                    { t(`Navigation.more.${item}`) }
+                                                </Link>
+                                            )) }
+                                        </div>
+                                    ) }
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    )
+        </>
+    );
 }
 
-export default MobileNav
+export default MobileNav;

@@ -46,7 +46,6 @@ const SECTION_TYPES = {
     FAQ: 'faq',
 } as const;
 
-
 // Section configuration for easy management
 const SECTION_CONFIGS = [
     {
@@ -130,53 +129,97 @@ const ProductPage = async ({ params }: ProductPageProps) => {
 
     return (
         <>
-            <HeroBackground />
+            {/* Full-width hero background for desktop */ }
+            <div className="hidden lg:block  absolute inset-x-0 top-16 h-[320px] lg:h-[360px] xl:h-[400px] -z-10">
+                <HeroBackground />
+            </div>
 
             <main className="max-w-[1200px] lg:flex lg:gap-8 mx-auto px-4 py-8">
                 {/* Main content */ }
                 <div className="lg:flex-1 lg:max-w-[calc(100%_-_400px)] relative z-10">
-                    {/* Header section */ }
-                    <header className="px-4 py-8">
-                        <h1 className="text-gray-100 text-4xl">{ productData.title }</h1>
-                        <RatingDisplay ratingData={ ratingData } />
-                        <div
-                            className="text-muted/70 prose prose-sm max-w-none"
-                            dangerouslySetInnerHTML={ { __html: productData.description } }
-                        />
-                    </header>
+                    {/* Mobile: trailer, then hero/title/rating, then CTA, then navigation/sections */ }
+                    <div className="block lg:hidden">
+                        <div className="relative">
+                            {/* Mobile hero background - positioned to cover trailer and header area */ }
+                            <div className="absolute inset-0 w-full h-full z-0">
+                                <HeroBackground />
+                            </div>
+                            <div className="relative z-10">
+                                <Trailer media={ productData.media } />
+                                <header className="px-2 py-4">
+                                    <h1 className="text-gray-100 text-2xl font-bold">{ productData.title }</h1>
+                                    <RatingDisplay ratingData={ ratingData } />
+                                    <div
+                                        className="text-muted/70 prose prose-sm max-w-none mt-4"
+                                        dangerouslySetInnerHTML={ { __html: productData.description } }
+                                    />
+                                </header>
+                            </div>
+                            {/* Mobile CTA outside the background */ }
+                            <div className="w-full px-2 py-4 bg-white flex flex-col gap-4 mt-2 mb-2 relative z-10">
+                                <Suspense fallback={ <CtaButtonSkeleton /> }>
+                                    <CtaButton slug={ slug } ctaText={ productData.cta_text } />
+                                </Suspense>
+                            </div>
+                            <ChecklistSection checklist={ productData.checklist } t={ t } />
+                            <ContactSection t={ t } />
+                            <div className="mt-6">
+                                <SectionsNavigation sections={ productData.sections } />
+                                <InstructorsSection sections={ productData.sections } />
+                                { SECTION_CONFIGS.map(({ type, Component, emptyMessage }) => (
+                                    <GenericSection
+                                        key={ type }
+                                        sections={ productData.sections }
+                                        sectionType={ type }
+                                        Component={ Component }
+                                        emptyStateMessage={ emptyMessage }
+                                    />
+                                )) }
+                            </div>
+                        </div>
+                    </div>
 
-                    {/* Navigation and sections */ }
-                    <div className="mt-10">
-                        <SectionsNavigation sections={ productData.sections } />
-
-                        <InstructorsSection sections={ productData.sections } />
-
-                        {/* Dynamic sections using composable components */ }
-                        { SECTION_CONFIGS.map(({ type, Component, emptyMessage }) => (
-                            <GenericSection
-                                key={ type }
-                                sections={ productData.sections }
-                                sectionType={ type }
-                                Component={ Component }
-                                emptyStateMessage={ emptyMessage }
+                    {/* Desktop: hero/title/rating with full-width background, navigation/sections; trailer/cta in sidebar */ }
+                    <div className="hidden -mt-20 lg:block relative">
+                        {/* Desktop hero section with proper spacing from top */ }
+                        <header className="px-4  relative z-10 flex flex-col items-start justify-center h-[320px] lg:h-[360px] xl:h-[400px] mt-0">
+                            <h1 className="text-gray-100 text-4xl font-bold mb-2">{ productData.title }</h1>
+                            <RatingDisplay ratingData={ ratingData } />
+                            <div
+                                className="text-muted/70 prose prose-sm max-w-none mt-4"
+                                dangerouslySetInnerHTML={ { __html: productData.description } }
                             />
-                        )) }
+                        </header>
+
+                        {/* Content sections below hero */ }
+                        <div className="">
+                            <SectionsNavigation sections={ productData.sections } />
+                            <InstructorsSection sections={ productData.sections } />
+                            { SECTION_CONFIGS.map(({ type, Component, emptyMessage }) => (
+                                <GenericSection
+                                    key={ type }
+                                    sections={ productData.sections }
+                                    sectionType={ type }
+                                    Component={ Component }
+                                    emptyStateMessage={ emptyMessage }
+                                />
+                            )) }
+                        </div>
                     </div>
                 </div>
 
-                {/* Sidebar CTA */ }
-                <aside className="lg:w-96 lg:flex-shrink-0">
+                {/* Sidebar CTA for desktop */ }
+                <aside className="lg:w-96 order-1 lg:order-2 lg:flex-shrink-0 hidden lg:block">
                     <div className="lg:sticky lg:top-28">
-                        <div className="border bg-background p-1">
+                        <div className="border lg:bg-background p-1">
                             <Trailer media={ productData.media } />
-
-                            <Suspense fallback={ <CtaButtonSkeleton /> }>
-                                <CtaButton slug={ slug } ctaText={ productData.cta_text } />
-                            </Suspense>
-
+                            <div className="w-full px-2 py-4 rounded-lg bg-white flex flex-col gap-4 mt-2 mb-2">
+                                <Suspense fallback={ <CtaButtonSkeleton /> }>
+                                    <CtaButton slug={ slug } ctaText={ productData.cta_text } />
+                                </Suspense>
+                            </div>
                             <ChecklistSection checklist={ productData.checklist } t={ t } />
                         </div>
-
                         <ContactSection t={ t } />
                     </div>
                 </aside>
