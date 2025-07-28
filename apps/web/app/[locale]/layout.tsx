@@ -27,6 +27,7 @@ export default async function LocaleLayout({
     }
     return (
         <html
+            className="scroll-smooth"
             lang={ locale }
             suppressHydrationWarning>
             <body className={ `${fontSans.variable}  font-sans antialiased ` }>
