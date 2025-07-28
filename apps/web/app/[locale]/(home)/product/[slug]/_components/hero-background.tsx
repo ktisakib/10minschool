@@ -1,5 +1,5 @@
 const HeroBackground = () => (
-    <div className="min-h-75 max-w-screen w-full flex items-center isolate absolute bg-black">
+    <div className="min-h-75 max-lg:h-[70vh]  max-w-screen w-full flex items-center isolate absolute bg-black">
         <div
             className="absolute inset-0 z-0"
             style={ {

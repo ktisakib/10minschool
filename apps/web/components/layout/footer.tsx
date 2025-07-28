@@ -8,11 +8,11 @@ export default function Footer() {
 
     return (
         <footer className="">
-            <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div className="max-w-[1200px] overflow-x-hidden mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div className="lg:flex lg:flex-row  grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                     {/* Logo and App Downloads */}
-                    <div className="space-y-6 w-sm ">
-                        <div>
+                    <div className="space-y-6  min-w-sm ">
+                        <div className="flex flex-col items-center md:items-start">
                             <Image
                                 src="/10mslogo.svg"
                                 alt="10 Minute School Logo"

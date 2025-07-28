@@ -3,90 +3,65 @@ import Link from "next/link";
 import Image from "next/image";
 import { Menu, Phone } from "lucide-react";
 // import { useTranslations } from 'next-intl'
-import Nav from "./nav";
-import SearchBar from "./search-bar";
 import LocalSwitcher from "./local-switcher";
-import { Button } from "@enterprise/ui/components/button";
+import MobileNav from "./mobile-nav";
+
 
 import { getTranslations } from "next-intl/server";
-
+import Nav from "./nav";
+import SearchBar from "./search-bar";
+import { Button } from "@enterprise/ui/components/button";
 const Header = async () => {
-  // const [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
-  const t = await getTranslations();
-  // const mobileNavConfig = createNavigationConfig(t)
+    const t = await getTranslations();
+    return (
+        <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background shadow-sm">
+            <div className="container mx-auto max-w-[1400px] px-4">
+                {/* Mobile header */ }
+                <div className="flex lg:hidden h-16 items-center w-full justify-between px-4">
+                    <Link href="/" className="flex items-center gap-2 flex-shrink-0">
+                        <Image src="/10mslogo.svg" alt="10 Minute School" width={ 40 } height={ 40 } className="h-7 w-auto" />
+                    </Link>
+                    <div className="flex items-center gap-2">
+                    <LocalSwitcher />
+                        <MobileNav />
+                    </div>
+                </div>
+                {/* Desktop header */ }
+                <div className="hidden lg:flex h-16 items-center w-full gap-4 justify-between px-4">
+                    {/* Logo */ }
+                    <Link href="/" className="flex items-center gap-2 flex-shrink-0">
+                        <img src="/10mslogo.svg" alt="10 Minute School" width={ 40 } height={ 40 } className="h-7 w-auto" />
+                    </Link>
+                    {/* Navigation and actions */ }
+                    <div className="flex items-center gap-2 flex-1">
+                        <SearchBar />
+                        {/* Add your desktop navigation here, e.g. <Nav /> */ }
+                        <Nav />
+                    </div>
+                    <div className="flex items-center gap-3 flex-shrink-0">
+                        <LocalSwitcher />
+                        <div className="flex items-center gap-1 text-sm text-muted-foreground">
+                            {/* Language Switcher */ }
+                            <div className='hidden lg:flex items-center gap-1 text-sm text-muted-foreground'>
+                                <Phone className='h-6 w-6 fill-primary stroke-0' />
+                                <span className="text-primary text-lg">{ t("Header.phone") }</span>
+                            </div>
 
-  return (
-    <>
-      <header className='sticky top-0 z-50 w-full border-b border-border/40 bg-background shadow-sm'>
-        <div className='container mx-auto max-w-[1400px] px-4'>
-          {/* Main Header */}
-          <div className='flex h-16 relative items-center gap-4'>
-            {/* Logo */}
-            <Link
-              href='/'
-              className='flex items-center gap-2 flex-shrink-0'>
-              <Image
-                src='/10mslogo.svg'
-                alt='10 Minute School'
-                width={40}
-                height={40}
-                className='h-7 w-auto'
-              />
-            </Link>
+                            {/* Login Button */ }
+                            <Button
+                                size='sm'
+                                className='bg-primary hover:bg-primary/80 cursor-pointer text-white'>
+                                { t("Header.login") }
+                            </Button>
 
-            {/* Search Bar - Right after logo */}
-            <div className='hidden relative md:flex  flex-1  '>
-              <SearchBar />
+
+
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            {/* Navigation Menu - Desktop */}
-            <div className='hidden lg:flex'>
-              <Nav />
-            </div>
-
-            {/* Right Side Actions */}
-            <div className='flex items-center gap-3 flex-shrink-0'>
-              {/* Phone Number */}
-
-              {/* Language Switcher */}
-              <LocalSwitcher />
-              <div className='hidden lg:flex items-center gap-1 text-sm text-muted-foreground'>
-                <Phone className='h-6 w-6 fill-primary stroke-0' />
-                <span className="text-primary text-lg">{t("Header.phone")}</span>
-              </div>
-
-              {/* Login Button */}
-              <Button
-                size='sm'
-                className='bg-primary hover:bg-primary/80 cursor-pointer text-white'>
-                {t("Header.login")}
-              </Button>
-
-              {/* Mobile Menu Button */}
-              <button
-                className='lg:hidden p-2 hover:bg-accent rounded-lg transition-colors'
-                // onClick={ () => setIsMobileNavOpen(true) }
-              >
-                <Menu className='h-5 w-5' />
-              </button>
-            </div>
-          </div>
-
-          {/* Mobile Search Bar */}
-          <div className='md:hidden pb-4'>
-            <SearchBar />
-          </div>
-        </div>
-      </header>
-
-      {/* Mobile Navigation */}
-      {/* <ModularMobileNav
-                isOpen={ isMobileNavOpen }
-                onClose={ () => setIsMobileNavOpen(false) }
-                config={ mobileNavConfig }
-            /> */}
-    </>
-  );
-};
+        </header>
+    );
+}
 
 export default Header;
