@@ -1,161 +1,107 @@
-# Enterprise App
+# Frontend Engineer (Level 1) Assessment – 10 Minute School
 
-A full-stack enterprise application built with a modern monorepo architecture featuring web and mobile applications with shared packages.
+This repository contains the solution for the following assessment:
 
-## 🏗️ Architecture
+> **Task:** Design a product page like ‘IELTS Course by Munzereen Shahid’ using React/Next.js, TailwindCSS, and TypeScript. The page should fetch data from the public API and implement the required sections as described below.
 
-This monorepo contains:
+## 📝 Assessment Details
 
-- **Web App** (`apps/web`) - Next.js application with TypeScript
-- **Mobile App** (`apps/mobile`) - React Native/Expo application
-- **Shared Packages**:
-  - `@enterprise/ui` - Shared UI components built with shadcn/ui
-  - `@enterprise/db` - Database schema and client (Drizzle ORM)
-  - `@enterprise/trpc` - Type-safe API layer
-  - `@enterprise/eslint-config` - Shared ESLint configuration
-  - `@enterprise/typescript-config` - Shared TypeScript configuration
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Node.js 20+
-- pnpm
-
-### Installation
+- **Reference Page:** [IELTS Course by Munzereen Shahid](https://10minuteschool.com/product/ielts-course/)
+- **API Endpoint:**
+  - `https://api.10minuteschool.com/discovery-service/api/v1/products/ielts-course`
+  - Query param: `lang=en` or `lang=bn`
+  - Required header: `X-TENMS-SOURCE-PLATFORM: web`
+- **API Example:**
 
 ```bash
-# Clone and install dependencies
-pnpm install
-
-# Set up the database
-pnpm db:setup
+curl --request GET \
+  --url 'https://api.10minuteschool.com/discovery-service/api/v1/products/ielts-course?lang=en' \
+  --header 'X-TENMS-SOURCE-PLATFORM: web' \
+  --header 'accept: application/json'
 ```
 
-### Development
+- **Tech Stack:** React/Next.js, TypeScript, TailwindCSS
+- **Submission:** Build version via GitHub (Dockerfile optional)
+- **Deadline:** 28th July, 11:59 PM
 
-```bash
-# Start all development servers
-pnpm dev
+## 🚀 How to Start the Web App
 
-# Start specific applications
-pnpm --filter @enterprise/web dev    # Web app
-pnpm --filter @enterprise/mobile dev # Mobile app
+1. **Install dependencies:**
+   ```bash
+   pnpm install
+   ```
+2. **Copy environment variables:**
+   - Copy `apps/web/.env.example` to `apps/web/.env`:
+     ```bash
+     cp apps/web/.env.example apps/web/.env
+     ```
+   - Edit the `.env` files and update values as needed (e.g., database credentials, OAuth secrets).
+
+3. **Start the web app in development mode:**
+   ```bash
+   pnpm dev --filter @enterprise/web 
+   ```
+   The app will run at [http://localhost:3000](http://localhost:3000)
+
+4. **Build for production:**
+   ```bash
+   pnpm build --filter @enterprise/web 
+   pnpm start --filter @enterprise/web 
+   ```
+
+## 🖥️ Product Page Implementation Guide
+
+The product page fetches and displays data from the API. Key features:
+
+- **Title:** Product title
+- **Description:** Rich HTML description
+- **Course Instructors:** From `sections` (type=instructor)
+- **Product Trailer:** YouTube player (from `media`)
+- **Price:** Hardcoded as 1000
+- **CTA Text:** From `cta_text`
+- **Localization:** Supports English/Bangla via API param
+- **SSR:** Server-side rendering with Next.js
+- **SEO:** Uses SEO data from API (pass required header)
+- **Check List:** From `checklist`
+- **Course Layout:** From `sections` (type=features)
+- **Learning Outcomes:** From `sections` (type=pointers)
+- **Course Details:** From `sections` (type=about)
+- **Reusable Components:** Built with TypeScript and TailwindCSS
+
+## 🗂️ Project Structure
+
+```
+apps/
+  web/         # Next.js web application (product page)
+packages/
+  ui/          # Shared UI components
+  db/          # Database schema and client
+  trpc/        # API layer
+  ...
 ```
 
-## 📱 Applications
-
-### Web Application
-- **Framework**: Next.js with TypeScript
-- **Styling**: Tailwind CSS + shadcn/ui
-- **Port**: http://localhost:3000
-
-### Mobile Application
-- **Framework**: React Native + Expo
-- **Navigation**: Expo Router
-- **Features**: Cross-platform iOS/Android support
-
-## 📦 Available Scripts
-
-### Root Level Commands
+## 🧑‍💻 Development Scripts
 
 ```bash
-# Development
-pnpm dev              # Start all development servers
-pnpm build            # Build all applications
-pnpm test             # Run all tests
-pnpm test:watch       # Run tests in watch mode
-
-# Database
-pnpm db:setup         # Initialize database
-pnpm db:push          # Push schema changes
-pnpm db:studio        # Open Drizzle Studio
-pnpm db:generate      # Generate database migrations
-
-# Code Quality
+pnpm dev              # Start all dev servers
+pnpm --filter apps/web dev    # Start only web app
+pnpm build            # Build all apps
 pnpm lint             # Lint all packages
-pnpm format           # Format code with Prettier
+pnpm format           # Format code
 pnpm typecheck        # Type check all packages
-
-# Storybook
-pnpm storybook        # Start Storybook for all packages
-pnpm storybook:web    # Web Storybook
-pnpm storybook:ui     # UI package Storybook
-
-# Utilities
-pnpm clean            # Clean node_modules and build artifacts
-pnpm add-component    # Add shadcn/ui component to web app
 ```
 
-## 🎨 UI Components
+## 📦 Submission Checklist
+- [x] All required sections implemented as per assessment
+- [x] SSR and localization supported
+- [x] SEO data used from API
+- [x] .env files created from .env.example
+- [x] App runs with `pnpm dev --filter @enterprise/web`
+- [x] Build and start commands tested
+- [x] Code is clean, typed, and uses reusable components
+- [x] Docker file added 
 
-### Adding Components
 
-Add shadcn/ui components to your web app:
-
-```bash
-pnpm add-component button
-# or from root:
-pnpm dlx shadcn@latest add button -c apps/web
-```
-
-Components are automatically placed in `packages/ui/src/components` and can be shared across applications.
-
-### Using Components
-
-Import components from the shared UI package:
-
-```tsx
-import { Button } from "@enterprise/ui/components/button"
-import { Card, CardContent } from "@enterprise/ui/components/card"
-
-export function MyComponent() {
-  return (
-    <Card>
-      <CardContent>
-        <Button>Click me</Button>
-      </CardContent>
-    </Card>
-  )
-}
-```
-
-## 🔧 Development Tools
-
-- **Turborepo** - Build system and task runner
-- **TypeScript** - Type safety across all packages
-- **ESLint** - Code linting with shared configuration
-- **Prettier** - Code formatting
-- **Jest** - Unit testing
-- **Storybook** - Component development and documentation
-
-## 📁 Project Structure
-
-```
-enterprise-app/
-├── apps/
-│   ├── web/          # Next.js web application
-│   └── mobile/       # React Native/Expo mobile app
-├── packages/
-│   ├── ui/           # Shared UI components (shadcn/ui)
-│   ├── auth/         # Authentication utilities
-│   ├── db/           # Database schema and client
-│   ├── trpc/         # API layer
-│   ├── env/          # Environment validation
-│   ├── eslint-config/    # Shared ESLint config
-│   └── typescript-config/ # Shared TypeScript config
-└── package.json      # Root package.json with workspace scripts
-```
-
-## 🤝 Contributing
-
-1. Create a feature branch
-2. Make your changes
-3. Run tests: `pnpm test`
-4. Check linting: `pnpm lint`
-5. Format code: `pnpm format`
-6. Submit a pull request
 
 ## 📄 License
-
 This project is private and proprietary.
