@@ -1,4 +1,25 @@
 {
+  "Footer": {
+    "company": "Company",
+    "career_recruitment": "Career / Recruitment",
+    "join_teacher": "Join as a Teacher",
+    "join_affiliate": "Join as an Affiliate",
+    "privacy_policy": "Privacy Policy",
+    "refund_policy": "Refund Policy",
+    "terms": "Terms of Use",
+    "other": "Other",
+    "blog": "Blog",
+    "book_store": "Book Store",
+    "free_notes": "Free Notes & Guides",
+    "job_preparation": "Job Preparation Courses",
+    "verify_certificate": "Verify Certificate",
+    "free_download": "Free Download",
+    "contact": "Contact Us",
+    "call": "Call: 16910 (24x7)",
+    "whatsapp": "WhatsApp: +8801896016252(24x7)",
+    "intl": "From abroad: +880 9610916910",
+    "email": "Email: support@10minuteschool.com"
+  },
   "HomePage": {
     "title": "Hello world!",
     "about": "Go to the about page"
@@ -80,6 +101,8 @@
       "default_text": "Enroll Now",
       "loading": "Loading..."
     },
-    "checklist_title": "What's included in this course"
+    "checklist_title": "What's included in this course",
+    "cta_info": "To know more about the course",
+    "cta_call": "Call (16910)"
   }
 }

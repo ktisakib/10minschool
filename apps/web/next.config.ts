@@ -12,7 +12,7 @@ const nextConfig: NextConfig = {
     allowedDevOrigins: ["localhost:3000", "localhost:8081"],
     transpilePackages: ["@enterprise/ui", "@enterprise/db", "@enterprise/trpc"],
     images: {
-        remotePatterns: [new URL('https://cdn.10minuteschool.com/images/**'), new URL('https://s3.ap-southeast-1.amazonaws.com/cdn.10minuteschool.com/images/**')],
+        remotePatterns: [new URL('https://cdn.10minuteschool.com/images/**'), new URL('https://s3.ap-southeast-1.amazonaws.com/cdn.10minuteschool.com/images/**'), new URL('https://cdn.10ms.com/**')],
     },
     async headers() {
         return [
