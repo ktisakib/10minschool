@@ -20,24 +20,18 @@ export interface GroupJoinEngagement {
     top_left_icon_img: string;
 }
 
-interface GroupJoinEngagementSectionProps {
-    engagements: GroupJoinEngagement[];
-    className?: string;
-}
 
 export default function GroupJoinEngagementSection({
     engagements,
-    className = ""
-}: GroupJoinEngagementSectionProps) {
+}: {
+    engagements: GroupJoinEngagement[];
+}) {
     if (engagements.length === 0) {
         return null;
     }
 
     return (
-        <section
-            id="group-join-engagement"
-            className={ `mt-16 px-4 ${className}` }
-        >
+
             <div className="space-y-4">
                 { engagements.map((engagement) => (
                     <div
@@ -119,6 +113,6 @@ export default function GroupJoinEngagementSection({
                     </div>
                 )) }
             </div>
-        </section>
+
     );
 }

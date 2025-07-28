@@ -1,4 +1,3 @@
-"use client";
 
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@enterprise/ui/components/accordion";
 
@@ -9,31 +8,20 @@ interface CourseDetailValue {
     icon: string;
 }
 
-interface CourseDetailsSectionProps {
-    title: string;
-    details: CourseDetailValue[];
-    bgColor?: string;
-}
 
 // Helper function to strip HTML tags and extract plain text
 const stripHtmlTags = (html: string): string => {
     return html.replace(/<[^>]*>/g, '');
 };
 
-const CourseDetailsSection = ({ title, details, bgColor }: CourseDetailsSectionProps) => {
+const CourseDetailsSection = ({ details }: {
+    details: CourseDetailValue[];
+}) => {
     if (!details || details.length === 0) {
         return null;
     }
 
     return (
-        <section
-            id="about"
-            className="py-8 px-6 rounded-lg"
-            style={ { backgroundColor: bgColor || '#ffffff' } }
-        >
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
-                { title }
-            </h2>
 
             <div className="bg-white border border-gray-200  rounded-lg overflow-hidden">
                 <Accordion
@@ -60,7 +48,6 @@ const CourseDetailsSection = ({ title, details, bgColor }: CourseDetailsSectionP
                     )) }
                 </Accordion>
             </div>
-        </section>
     );
 };
 

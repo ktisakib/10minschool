@@ -7,30 +7,20 @@ export interface Pointer {
     text: string;
 }
 
-interface PointersSectionProps {
-    title: string;
-    pointers: Pointer[];
-    bgColor?: string;
-    className?: string;
-}
 
 export default function PointersSection({
-    title,
     pointers,
-    bgColor,
-    className = ""
-}: PointersSectionProps) {
+
+}: {
+
+    pointers: Pointer[];
+
+}) {
     if (pointers.length === 0) {
         return null;
     }
 
     return (
-        <section
-            id="pointers"
-            className={ `mt-16 px-4 ${className}` }
-            style={ bgColor ? { backgroundColor: bgColor } : undefined }
-        >
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">{ title }</h2>
 
             <div className="bg-gray-50 rounded-lg p-6 border border-gray-200">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -57,6 +47,6 @@ export default function PointersSection({
                     )) }
                 </div>
             </div>
-        </section>
+
     );
 }

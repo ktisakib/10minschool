@@ -1,4 +1,3 @@
-"use client";
 
 import { CheckIcon } from "lucide-react";
 import Image from "next/image";
@@ -12,29 +11,17 @@ interface ExclusiveFeature {
     video_thumbnail?: string;
 }
 
-interface CourseExclusiveFeatureSectionProps {
-    title: string;
-    features: ExclusiveFeature[];
-    bgColor?: string;
-}
 
 const CourseExclusiveFeatureSection = ({
-    title,
     features,
-    bgColor
-}: CourseExclusiveFeatureSectionProps) => {
+}: {
+    features: ExclusiveFeature[];
+}) => {
     if (!features || features.length === 0) {
         return null;
     }
 
     return (
-        <section
-            className="py-8 px-6 rounded-lg"
-            style={ { backgroundColor: bgColor || '#ffffff' } }
-        >
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-8">
-                { title }
-            </h2>
 
             <div className="space-y-6">
                 { features.map((feature) => (
@@ -78,7 +65,6 @@ const CourseExclusiveFeatureSection = ({
                     </div>
                 )) }
             </div>
-        </section>
     );
 };
 

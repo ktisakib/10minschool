@@ -7,29 +7,18 @@ export interface Feature {
     title: string;
 }
 
-interface FeaturesSectionProps {
-    title: string;
-    features: Feature[];
-    bgColor?: string;
-    className?: string;
-}
 
 export default function FeaturesSection({
-    title,
-    features,
-    bgColor,
-    className = ""
-}: FeaturesSectionProps) {
+    features
+}: {
+    features: Feature[];
+}) {
     if (features.length === 0) {
         return null;
     }
 
     return (
-        <section
-            id="features"
-            className={ `mt-8 scroll-mt-40 mb-8 rounded-lg px-4 ${className}` }
-        >
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">{ title }</h2>
+
 
             <div className="bg-[#1f2937] rounded-lg p-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -70,6 +59,6 @@ export default function FeaturesSection({
                     }) }
                 </div>
             </div>
-        </section>
+
     );
 }
