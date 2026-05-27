@@ -46,6 +46,13 @@ export const auth = betterAuth({
     appName: "enterprise-app",
     secret: env.BETTER_AUTH_SECRET,
     baseURL: env.NEXT_PUBLIC_BETTER_AUTH_URL || env.BASE_URL,
+    trustedOrigins: [
+        "http://localhost:8081", // Mobile app development server
+        "exp://192.168.1.100:8081", // Expo dev server (adjust IP as needed)
+        "http://192.168.1.100:8081", // Local network access
+        "enterprise://", // Expo deep link scheme
+        "enterprise://*", // Expo deep link scheme with wildcard
+    ],
     advanced: {
         ipAddress: {
             ipAddressHeaders: ["x-client-ip", "x-forwarded-for"],
@@ -66,13 +73,6 @@ export const auth = betterAuth({
             httpOnly: true,
             sameSite: "lax",
         },
-        trustedOrigins: [
-            "http://localhost:8081", // Mobile app development server
-            "exp://192.168.1.100:8081", // Expo dev server (adjust IP as needed)
-            "http://192.168.1.100:8081", // Local network access
-            "enterprise://", // Expo deep link scheme
-            "enterprise://*", // Expo deep link scheme with wildcard
-        ],
         cookiePrefix: "enterprise-auth",
     },
     database: drizzleAdapter(db, {
@@ -94,7 +94,7 @@ export const auth = betterAuth({
             clientSecret: env.MICROSOFT_CLIENT_SECRET,
             // Optional
             tenantId: "common",
-            requireSelectAccount: true,
+            prompt: "select_account",
         } : undefined,
     },
     emailVerification: {
@@ -167,7 +167,7 @@ export const auth = betterAuth({
     } : undefined,
     plugins: [
         expo(),
-        twoFactor(),
+        twoFactor() as any,
         username(),
         anonymous({
             onLinkAccount: async ({ anonymousUser, newUser }) => {

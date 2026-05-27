@@ -1,0 +1,5030 @@
+{
+  "code": 200,
+  "data": {
+    "products": [
+      {
+        "title": "HSC 28 Basic Building Course",
+        "id": "11327",
+        "slug": "hsc-28-basic-building-course",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/me_1779360900210.jpeg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/me2_1779360909630.jpeg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/me2_1779360909630.jpeg"
+          }
+        ],
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "<span><font color='#1CAB55'><b>Free</b></span>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Free Batch (Humanities)",
+        "id": "11326",
+        "slug": "hsc-28-humanities-free-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-humanities-free-batch-thumbnail.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-humanities-free-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-humanities-free-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "<span><font color='#1CAB55'><b>Free</b></span>"
+        },
+        "instructor_text": "Nayeem Durjoy +6",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Free Batch (Business Studies)",
+        "id": "11325",
+        "slug": "hsc-28-business-studies-free-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studiess-free-batch-thumbnail.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studiess-free-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studiess-free-batch-sqr-thumbnail-2.jpg"
+          }
+        ],
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "<span><font color='#1CAB55'><b>Free</b></span>"
+        },
+        "instructor_text": "Nayeem Durjoy +10",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Free Batch (Science)",
+        "id": "11324",
+        "slug": "hsc-28-science-free-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-free-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-free-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-free-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "<span><font color='#1CAB55'><b>Free</b></span>"
+        },
+        "instructor_text": "Sumya Akter Mim +13",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: জিওগ্রাফি",
+        "id": "11323",
+        "slug": "hsc-28-masterbook-geography",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_37_58_PM_%281%29_1779112883214.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_37_58_PM_%281%29_1779112883214.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_37_58_PM_%282%29_1779112901287.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: সিভিক্স",
+        "id": "11322",
+        "slug": "hsc-28-masterbook-civics",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_35_48_PM_%281%29_1779112843312.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_35_48_PM_%281%29_1779112843312.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_35_48_PM_%282%29_1779112864282.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ইকোনমিক্স",
+        "id": "11321",
+        "slug": "hsc-28-masterbook-economics",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_29_50_PM_%281%29_1779112788116.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_29_50_PM_%281%29_1779112788116.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_29_50_PM_%282%29_1779112808438.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: মার্কেটিং",
+        "id": "11320",
+        "slug": "hsc-28-masterbook-marketing",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_26_30_PM_%281%29_1779112740228.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_26_30_PM_%281%29_1779112740228.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_26_30_PM_%282%29_1779112758038.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ম্যানেজমেন্ট",
+        "id": "11319",
+        "slug": "hsc-28-masterbook-management",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_57_27_PM_%281%29_1779112664331.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_57_27_PM_%281%29_1779112664331.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_57_28_PM_%282%29_1779112686398.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: একাউন্টিং",
+        "id": "11318",
+        "slug": "hsc-28-masterbook-accounting",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_05_12_27_PM_%281%29_1779112059006.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_05_12_27_PM_%281%29_1779112059006.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_05_12_27_PM_%282%29_1779112078414.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ফাইন্যান্স",
+        "id": "11317",
+        "slug": "hsc-28-masterbook-finance",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_59_08_PM_%281%29_1779112002459.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_59_08_PM_%281%29_1779112002459.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_59_08_PM_%282%29_1779112020869.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: আইসিটি",
+        "id": "11316",
+        "slug": "hsc-28-masterbook-ict",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_54_14_PM_%281%29_1779111933876.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_54_14_PM_%281%29_1779111933876.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_54_15_PM_%282%29_1779111951690.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ইংরেজি",
+        "id": "11315",
+        "slug": "hsc-28-masterbook-english",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_44_32_PM_%281%29_1779111884013.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_44_32_PM_%281%29_1779111884013.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_07_44_32_PM_%282%29_1779111902026.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: বাংলা",
+        "id": "11314",
+        "slug": "hsc-28-masterbook-bangla",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_47_28_PM_%281%29_1779111818247.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_47_28_PM_%281%29_1779111818247.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_04_47_28_PM_%282%29_1779111837105.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: বায়োলজি",
+        "id": "11313",
+        "slug": "hsc-28-masterbook-biology",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_59_53_PM_%281%29_1779111772025.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_59_53_PM_%281%29_1779111772025.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_59_53_PM_%282%29_1779111790927.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ম্যাথ",
+        "id": "11312",
+        "slug": "hsc-28-masterbook-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_55_52_PM_%281%29_1779111732994.png"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_55_52_PM_%281%29_1779111732994.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_55_52_PM_%282%29_1779111755018.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: কেমিস্ট্রি",
+        "id": "11311",
+        "slug": "hsc-28-masterbook-chemistry",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_53_11_PM_%281%29_1779111697024.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_53_11_PM_%281%29_1779111697024.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_53_11_PM_%282%29_1779111713731.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Add-on] HSC 28 মাস্টারবুক: ফিজিক্স",
+        "id": "11310",
+        "slug": "hsc-28-masterbook-physics",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_49_48_PM_%281%29_1779111599591.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_49_48_PM_%281%29_1779111599591.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_May_18%2C_2026%2C_01_50_19_PM_1779111624923.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Recorded Batch (Humanities)",
+        "id": "11309",
+        "slug": "hsc-28-humanities-recorded-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Humanities_16x9_1779094263153.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Humanities_1x1_1779094277176.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Humanities_16x9_1779094263153.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3000,
+          "min_final_price": 3000,
+          "max_price": 5000,
+          "max_final_price": 5000,
+          "text": "৳ 3000"
+        },
+        "instructor_text": "Nayeem Durjoy +6",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Recorded Batch (Business Studies)",
+        "id": "11308",
+        "slug": "hsc-28-business-studies-recorded-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studies-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studies-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-business-studies-recorded-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3000,
+          "min_final_price": 3000,
+          "max_price": 5000,
+          "max_final_price": 5000,
+          "text": "৳ 3000"
+        },
+        "instructor_text": "Nayeem Durjoy +10",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 Recorded Batch (Science)",
+        "id": "11307",
+        "slug": "hsc-28-science-recorded-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-science-recorded-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 5000,
+          "min_final_price": 5000,
+          "max_price": 7000,
+          "max_final_price": 7000,
+          "text": "৳ 5000"
+        },
+        "instructor_text": "Sumya Akter Mim +13",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "[Test SQA]নবম শ্রেণি - অনলাইন ব্যাচ ২০২৬ [বিজ্ঞান বিভাগ - SSC 28]",
+        "id": "11306",
+        "slug": "test-by-sqa-class-9-online-batch-2026-science-ssc-28",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1200,
+          "min_final_price": 1000,
+          "max_price": 1200,
+          "max_final_price": 1000,
+          "text": "৳ 1000 <s>৳1200</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "SheSTEM English Language & Communication for Career Live Course",
+        "id": "11301",
+        "slug": "shestem-english-communication-career-live-course",
+        "order_idx": 0,
+        "modality": "crash_course",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/shestem-english-communication-career-live-course-thumbnail.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/shestem-english-communication-career-live-course-sqr-thumbnail.png"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "B38FhP6ILp0"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 6000,
+          "min_final_price": 6000,
+          "max_price": 6000,
+          "max_final_price": 6000,
+          "text": "৳ 6000"
+        },
+        "instructor_text": "Nafiu Mahmud Dona",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "SheSTEM Employability Skills Live Course",
+        "id": "11300",
+        "slug": "shestem-employability-skills-live-course",
+        "order_idx": 0,
+        "modality": "crash_course",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/shestem-employability-skills-live-course-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/shestem-employability-skills-live-course-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "91xpy7QLUU0"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 6000,
+          "min_final_price": 6000,
+          "max_price": 6000,
+          "max_final_price": 6000,
+          "text": "৳ 6000"
+        },
+        "instructor_text": "J S Mahboob",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - মাস্টারবুক বান্ডেল",
+        "id": "11298",
+        "slug": "class-8-mb-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1500,
+          "min_final_price": 1500,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1500"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - গণিত মাস্টারবুক",
+        "id": "11297",
+        "slug": "class-8-mb-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 350,
+          "min_final_price": 350,
+          "max_price": 350,
+          "max_final_price": 350,
+          "text": "৳ 350"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - বিজ্ঞান মাস্টারবুক",
+        "id": "11296",
+        "slug": "class-8-mb-science",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - BGS + ICT মাস্টারবুক",
+        "id": "11295",
+        "slug": "class-8-mb-bgs-ict",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - ইংরেজি মাস্টারবুক",
+        "id": "11294",
+        "slug": "class-8-mb-english",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৮ম শ্রেণি - বাংলা মাস্টারবুক",
+        "id": "11293",
+        "slug": "class-8-mb-bangla",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - মাস্টারবুক বান্ডেল",
+        "id": "11292",
+        "slug": "class-7-mb-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1500,
+          "min_final_price": 1500,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1500"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - গণিত মাস্টারবুক",
+        "id": "11291",
+        "slug": "class-7-mb-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 350,
+          "min_final_price": 350,
+          "max_price": 350,
+          "max_final_price": 350,
+          "text": "৳ 350"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - বিজ্ঞান মাস্টারবুক",
+        "id": "11290",
+        "slug": "class-7-mb-science",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - BGS + ICT মাস্টারবুক",
+        "id": "11289",
+        "slug": "class-7-mb-bgs-ict",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - ইংরেজি মাস্টারবুক",
+        "id": "11288",
+        "slug": "class-7-mb-english",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৭ম শ্রেণি - বাংলা মাস্টারবুক",
+        "id": "11287",
+        "slug": "class-7-mb-bangla",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - মাস্টারবুক বান্ডেল",
+        "id": "11286",
+        "slug": "class-6-mb-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1500,
+          "min_final_price": 1500,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1500"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - গণিত মাস্টারবুক",
+        "id": "11285",
+        "slug": "class-6-mb-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - বিজ্ঞান মাস্টারবুক",
+        "id": "11284",
+        "slug": "class-6-mb-science",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - BGS + ICT মাস্টারবুক",
+        "id": "11283",
+        "slug": "class-6-mb-bgs-ict",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 350,
+          "min_final_price": 350,
+          "max_price": 350,
+          "max_final_price": 350,
+          "text": "৳ 350"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - ইংরেজি মাস্টারবুক",
+        "id": "11282",
+        "slug": "class-6-mb-english",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "৬ষ্ঠ শ্রেণি - বাংলা মাস্টারবুক",
+        "id": "11281",
+        "slug": "class-6-mb-bangla",
+        "order_idx": 0,
+        "modality": "book",
+        "media": null,
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 400,
+          "min_final_price": 400,
+          "max_price": 400,
+          "max_final_price": 400,
+          "text": "৳ 400"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "৫০ টাকা ডেলিভারি চার্জ অন্তর্ভুক্ত "
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "এইচএসসি ইংরেজি মিশন A+ (১ম ও ২য় পত্র)",
+        "id": "11280",
+        "slug": "hsc-english-mission-a+1st-&-2nd-paper",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Final_1776697720485.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0001_1776684719902.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0002_1776684721143.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0003_1776684722462.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0004_1776684723500.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0005_1776684724750.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0006_1776684726145.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0007_1776684727144.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0008_1776684728362.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0009_1776684729682.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0010_1776684730697.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0011_1776684731926.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0012_1776684732944.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0013_1776684733884.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0014_1776684734959.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0015_1776684735884.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0016_1776684736592.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0017_1776684737563.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0018_1776684738844.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0019_1776684740507.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0020_1776684741685.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0021_1776684742768.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0022_1776684744230.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0023_1776684745293.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0024_1776684746732.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0025_1776684749115.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0026_1776684750457.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Starting_HSC_English_Mission_A%2B_page-0027_1776684751601.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Thumbnail_1776696954518.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 450,
+          "min_final_price": 450,
+          "max_price": 450,
+          "max_final_price": 450,
+          "text": "৳ 450"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ডেলিভারি চার্জ ৫০ টাকা অন্তর্ভুক্ত"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - বিজ্ঞান",
+        "id": "11279",
+        "slug": "ssc-28-science-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-science-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-science-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-science-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/0cf4db3a-953a-48ad-b4b2-392267dd1510_1776836257722.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/4fa3b101-b352-493e-8a6d-c0fee83cfa15_1776836312016.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3500,
+          "max_final_price": 3500,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Jaki Ahmed +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/pdf-note.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/discord-community.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - উচ্চতর গণিত",
+        "id": "11278",
+        "slug": "ssc-28-higher-math-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-higher-math-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-higher-math-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-higher-math-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3830,
+          "max_final_price": 3830,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Faisal Ahmed +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time-limit.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Paper_1700380548740.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "MasterBook (কোর্সের এক্সক্লুসিভ add-on)"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক প্যাকেজ (বিজ্ঞান)",
+        "id": "11277",
+        "slug": "class-9-mb-pack-science",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Gemini_Generated_Image_o41wy0o41wy0o41w_1_%281%29_1776554207344.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0001_1776671816977.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0002_1776671815769.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0003_1776671814869.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0004_1776671814061.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0005_1776671812398.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0006_1776671811427.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0007_1776671809935.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0008_1776671808898.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0009_1776671808136.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0010_1776671807298.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0011_1776671806261.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0012_1776671805065.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0013_1776671803915.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0014_1776671802992.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0015_1776671802145.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0016_1776671801211.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0017_1776671799876.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0018_1776671798655.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0019_1776671797468.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0020_1776671796118.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0021_1776671795104.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0022_1776671793908.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0023_1776671792990.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0024_1776671792217.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0025_1776671791237.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0026_1776671790355.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0027_1776671789202.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0028_1776671787703.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0029_1776671786796.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0030_1776671785645.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0031_1776671784576.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0032_1776671782949.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0033_1776671781669.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0034_1776671780490.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0035_1776671779597.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0036_1776671778315.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0037_1776671776791.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0038_1776671775914.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0039_1776671775133.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0040_1776671774276.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0041_1776671773249.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0042_1776671772242.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0043_1776671770756.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0044_1776671769798.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0045_1776671768671.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0046_1776671767776.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0047_1776671766540.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0048_1776671765306.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0049_1776671759709.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0050_1776671758990.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0051_1776671757745.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0052_1776671756750.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0053_1776671755720.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0054_1776671755028.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0055_1776671754139.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0056_1776671753198.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0057_1776671752165.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0058_1776671751054.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0059_1776671749902.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0060_1776671748913.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0061_1776671747984.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0062_1776671746559.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0063_1776671745483.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0064_1776671744088.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0065_1776671743172.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0066_1776671742071.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0067_1776671741065.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0068_1776671740088.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0069_1776671738879.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0070_1776671737802.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0071_1776671736650.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/9-10_BUNDLE__compressed_page-0072_1776671734565.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2780,
+          "min_final_price": 2780,
+          "max_price": 2780,
+          "max_final_price": 2780,
+          "text": "৳ 2780"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (উচ্চতর গণিত)",
+        "id": "11276",
+        "slug": "class-9-mb-higher-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_HM_1776781677201.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0001_1776667067507.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0002_1776667073735.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0003_1776667071194.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0004_1776667076262.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0005_1776667075349.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0006_1776667077859.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0007_1776667070035.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0008_1776667072355.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0009_1776667068811.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0010_1776667074568.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_HM_page-0011_1776667077254.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Higher-Math_1776781434326.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 330,
+          "min_final_price": 330,
+          "max_price": 330,
+          "max_final_price": 330,
+          "text": "৳ 330"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 [বিজ্ঞান বিভাগ + BEI] রেকর্ডেড ব্যাচ ২০২৬",
+        "id": "11275",
+        "slug": "ssc-2028-science-recorded-batch",
+        "order_idx": 0,
+        "modality": "recorded",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-2028-science-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-2028-science-recorded-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-2028-science-recorded-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 5000,
+          "min_final_price": 5000,
+          "max_price": 5000,
+          "max_final_price": 5000,
+          "text": "5000"
+        },
+        "instructor_text": "Adittya Al-Rajhi +11",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "বিষয়ভিত্তিক রেকর্ডেড ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "CQ ও MCQ সল্ভ ক্লাস "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/pdf-note.png",
+            "text": "বিগত বছরের সব আর্কাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/discord-community.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "Testing In online",
+        "id": "11274",
+        "slug": "testing-in-online",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": null,
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "Call for Booking"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (আইসিটি)",
+        "id": "11273",
+        "slug": "class-9-mb-ict",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_ICT_1777272303568.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0001_1776670808396.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0002_1776670807368.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0003_1776670806176.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0004_1776670804973.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0005_1776670803772.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0006_1776670802725.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0007_1776670801729.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0008_1776670800801.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0009_1776670799686.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0010_1776670798443.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0011_1776670797429.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0012_1776670796245.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0013_1776670788298.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0014_1776670795145.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0015_1776670793994.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0016_1776670792820.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0017_1776670791645.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_ICT_compressed_page-0018_1776670789574.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 130,
+          "min_final_price": 130,
+          "max_price": 130,
+          "max_final_price": 130,
+          "text": "৳ 130"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (ইংরেজি)",
+        "id": "11272",
+        "slug": "class-9-mb-english",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_English_1777272710820.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0001_1776670200172.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0002_1776670203329.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0003_1776670209966.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0004_1776670201068.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0005_1776670204000.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0006_1776670205021.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0007_1776670199373.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0008_1776670207330.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0009_1776670206073.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0010_1776670202120.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E1_page-0011_1776670208594.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0005_1776670198636.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0006_1776670198061.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0007_1776670197081.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0008_1776670195912.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0009_1776670194957.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0010_1776670193897.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0011_1776670192699.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/E2_page-0012_1776670191445.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 160,
+          "min_final_price": 160,
+          "max_price": 470,
+          "max_final_price": 470,
+          "text": "৳ 160 টাকা থেকে শুরু"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (বাংলা)",
+        "id": "11271",
+        "slug": "class-9-mb-bangla",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_Bangla_1777272827336.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0001_1776668370476.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0002_1776668376047.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0003_1776668362793.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0004_1776668367289.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0005_1776668371737.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0006_1776668369410.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0007_1776668359576.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0008_1776668372555.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0009_1776668364659.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0010_1776668381307.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0011_1776668386016.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0012_1776668380123.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0013_1776668368437.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0014_1776668384161.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0015_1776668375034.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0016_1776668366330.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0017_1776668378757.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0018_1776668382653.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Bangla_1st_Paper_compressed_page-0019_1776668377293.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 320,
+          "min_final_price": 320,
+          "max_price": 320,
+          "max_final_price": 320,
+          "text": "৳ 320 টাকা থেকে শুরু"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (বায়োলজি)",
+        "id": "11270",
+        "slug": "class-9-mb-biology",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_Biologhy_1777273050753.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0001_1776664867182.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0002_1776664868092.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0003_1776664869450.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0004_1776664870452.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0005_1776664871284.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0006_1776664872569.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0007_1776664873551.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0008_1776664874392.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0009_1776664875206.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0010_1776664876302.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0011_1776664877195.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0012_1776664878336.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0013_1776664879057.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0014_1776664879963.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Biology_page-0015_1776664881096.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 240,
+          "min_final_price": 240,
+          "max_price": 240,
+          "max_final_price": 240,
+          "text": "৳ 240"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (গণিত)",
+        "id": "11269",
+        "slug": "class-9-mb-math",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_GM_1777273198491.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0001_1776666496101.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0002_1776666494964.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0003_1776666493796.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0004_1776666492515.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0005_1776666491338.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0006_1776666490443.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0007_1776666489386.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0008_1776666488576.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0009_1776666487388.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0010_1776666486149.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class-9_GM_compressed_page-0011_1776666485156.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 390,
+          "min_final_price": 390,
+          "max_price": 390,
+          "max_final_price": 390,
+          "text": "৳ 390"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (কেমিস্ট্রি)",
+        "id": "11268",
+        "slug": "class-9-mb-chemistry",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_Chemistry_1777273340601.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0001_1776671244396.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0002_1776671243215.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0003_1776671241202.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0004_1776671239676.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0005_1776671238085.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0006_1776671236850.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0007_1776671235931.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0008_1776671235058.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0009_1776671234009.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0010_1776671227265.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0011_1776671226043.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0012_1776671224755.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0013_1776671223660.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0014_1776671222609.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0015_1776671221618.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0016_1776671219813.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0017_1776671217755.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0018_1776671216712.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Chemistry_compressed_page-0019_1776671215425.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 300,
+          "min_final_price": 300,
+          "max_price": 300,
+          "max_final_price": 300,
+          "text": "৳ 300"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC মাস্টারবুক (ফিজিক্স)",
+        "id": "11267",
+        "slug": "class-9-mb-physics",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SSC_Physics_1777273465195.png"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0002_1776611661863.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0003_1776611670561.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0004_1776611677746.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0005_1776611680767.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0006_1776611683379.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0007_1776611689889.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0008_1776611698071.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0009_1776611705490.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0010_1776611713291.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0011_1776611719244.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0012_1776611725126.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0013_1776611731520.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0014_1776611735524.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0015_1776611740655.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0016_1776611746693.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0017_1776611753337.jpg"
+          },
+          {
+            "name": "book_preview",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/image/Class_9_Physics_page-0018_1776611760183.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 320,
+          "min_final_price": 320,
+          "max_price": 320,
+          "max_final_price": 320,
+          "text": "৳ 320"
+        },
+        "instructor_text": "",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/catalog/product/pointer/image_6344704_1777206996419.svg",
+            "text": "ফ্রি ডেলিভারি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - আইসিটি",
+        "id": "11266",
+        "slug": "ssc-28-ict-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-ict-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-ict-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-ict-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2500,
+          "max_price": 2630,
+          "max_final_price": 2630,
+          "text": "৳ 2500"
+        },
+        "instructor_text": "Jaki Ahmed +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস\n"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time-limit.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Paper_1700380548740.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - ইংরেজি",
+        "id": "11265",
+        "slug": "ssc-28-english-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-english-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-english-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-english-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2500,
+          "max_price": 2970,
+          "max_final_price": 2970,
+          "text": "৳ 2500"
+        },
+        "instructor_text": "Asadur Rahman Turzo +4",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/pdf-note.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/recovery-convert_1700380745094.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/topic.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Interective_1700380360743.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - বাংলা",
+        "id": "11264",
+        "slug": "ssc-28-bangla-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-bangla-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-bangla-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-bangla-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2500,
+          "max_price": 3100,
+          "max_final_price": 3100,
+          "text": "৳ 2500"
+        },
+        "instructor_text": "MD. Kaif +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - জীববিজ্ঞান",
+        "id": "11263",
+        "slug": "class-9-biology-online-batch-2026",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-biology-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-biology-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-biology-online-batch-sqr-thumbnail-01.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3740,
+          "max_final_price": 3740,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Abdullah Shafique Chowdhury +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/topic.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/discord-community.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - গণিত",
+        "id": "11262",
+        "slug": "ssc-28-math-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-general-math-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-general-math-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-general-math-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3890,
+          "max_final_price": 3890,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Faisal Ahmed +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/discord-community.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/others.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "\nMasterBook (কোর্সের এক্সক্লুসিভ add-on)"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - রসায়ন",
+        "id": "11261",
+        "slug": "ssc-28-chemistry-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-chemistry-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-chemistry-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-chemistry-online-batch-sqr-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3800,
+          "max_final_price": 3800,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Aman Islam Siam +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time-limit.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Paper_1700380548740.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "MasterBook (কোর্সের এক্সক্লুসিভ add-on)"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "SSC 28 অনলাইন ব্যাচ - পদার্থবিজ্ঞান",
+        "id": "11260",
+        "slug": "ssc-28-physics-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-physics-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-2028-physics-online-batch-sqr-thumbnail-01.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/ssc-28-online-batch/ssc-28-physics-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3500,
+          "min_final_price": 3500,
+          "max_price": 3820,
+          "max_final_price": 3820,
+          "text": "৳ 3500"
+        },
+        "instructor_text": "Sabbir Ahmed Rifat +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "প্রতি সপ্তাহে লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time-limit.png",
+            "text": "ডেইলি MCQ এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Paper_1700380548740.png",
+            "text": "কোর্স শেষে ফুল সিলেবাস Model Test"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "24/7 AI Doubt Solve সাপোর্ট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "মাসিক CQ+MCQ পরীক্ষা"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Paper_1700380548740.png",
+            "text": "Custom Exam দেওয়ার সুযোগ (SuperPrep)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "Monthly Parent Teacher Meeting ও রিপোর্ট কার্ড"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "MasterBook (কোর্সের এক্সক্লুসিভ add-on)"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 26 ফাইনাল রিভিশন লাইভ",
+        "id": "11259",
+        "slug": "hsc-2026-final-revision-live-course",
+        "order_idx": 0,
+        "modality": "crash_course",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_26_SMP/hsc-2026-final-revision-live-course-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_26_SMP/hsc-2026-final-revision-live-course-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_26_SMP/hsc-2026-final-revision-live-course-thumbnail.jpg"
+          }
+        ],
+        "price_type": "free",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 0,
+          "min_final_price": 0,
+          "max_price": 0,
+          "max_final_price": 0,
+          "text": "<span><font color='#1CAB55'><b>Free</b></span>"
+        },
+        "instructor_text": "Sumya Akter Mim +23",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/cheatsheet-projectfile-exercisefile-sourcefile-resource.png",
+            "text": "বিজ্ঞান, ব্যবসায় শিক্ষা ও মানবিক বিভাগের শিক্ষার্থীদের জন্য"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/time-limit.png",
+            "text": "পরীক্ষায় আসার মতো Most Common Topic এর Final Revision MCQ Solve ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "HSC পরীক্ষার আগে Most Common Topic-এর CQ+MCQ সাজেশন"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 ECG: মাস্টারবুক বান্ডেল",
+        "id": "11258",
+        "slug": "hsc-28-ecg:-masterbook-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_11_15_AM_1773530651036.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2400,
+          "min_final_price": 2400,
+          "max_price": 2400,
+          "max_final_price": 2400,
+          "text": "৳ 2400"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 FAMM: মাস্টারবুক বান্ডেল",
+        "id": "11257",
+        "slug": "hsc-28-famm:-masterbook-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_11_15_AM_1773530651036.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3200,
+          "min_final_price": 3200,
+          "max_price": 3200,
+          "max_final_price": 3200,
+          "text": "৳ 3200"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 PCMB: মাস্টারবুক বান্ডেল",
+        "id": "11256",
+        "slug": "hsc-28-pcmb:-masterbook-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_11_15_AM_1773530651036.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3200,
+          "min_final_price": 3200,
+          "max_price": 3200,
+          "max_final_price": 3200,
+          "text": "৳ 3200"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - জিওগ্রাফি",
+        "id": "11255",
+        "slug": "hsc-28-geography-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-geography-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-geography-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-geography-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "Yeasin Arafat Limon",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - পৌরনীতি",
+        "id": "11254",
+        "slug": "hsc-28-civics-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-civics-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-civics-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-civics-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "Mahbubul Newaz Farsim +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ইকোনমিক্স",
+        "id": "11253",
+        "slug": "hsc-28-economics-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-economics-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-economics-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-economics-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "MD. Kaif +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - মার্কেটিং",
+        "id": "11252",
+        "slug": "hsc-28-marketing-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-marketing-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-marketing-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-marketing-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "SMR Raiyan +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ম্যানেজমেন্ট",
+        "id": "11251",
+        "slug": "hsc-28-management-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-management-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-management-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-management-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "MD. Kaif +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - একাউন্টিং",
+        "id": "11250",
+        "slug": "hsc-28-accounting-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-accounting-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-accounting-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-accounting-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "Md. Abdullah Al Mahin +2",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ফাইন্যান্স",
+        "id": "11249",
+        "slug": "hsc-28-finance-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-finance-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-finance-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-finance-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 1850,
+          "max_price": 2500,
+          "max_final_price": 1850,
+          "text": "৳ 1850 <s>৳2500</s>"
+        },
+        "instructor_text": "SMR Raiyan +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - বায়োলজি",
+        "id": "11248",
+        "slug": "hsc-28-biology-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-biology-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-biology-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-biology-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2000,
+          "max_price": 10000,
+          "max_final_price": 5000,
+          "text": "৳ 2000 <s>৳2500</s>"
+        },
+        "instructor_text": "Sumya Akter Mim +2",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ম্যাথ",
+        "id": "11247",
+        "slug": "hsc-28-math-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-math-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-math-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-math-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2000,
+          "max_price": 10000,
+          "max_final_price": 5000,
+          "text": "৳ 2000 <s>৳2500</s>"
+        },
+        "instructor_text": "Adittya Al-Rajhi +2",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - কেমিস্ট্রি",
+        "id": "11246",
+        "slug": "hsc-28-chemistry-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-chemistry-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-chemistry-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-chemistry-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2000,
+          "max_price": 10000,
+          "max_final_price": 5000,
+          "text": "৳ 2000 <s>৳2500</s>"
+        },
+        "instructor_text": "Aman Islam Siam +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ফিজিক্স",
+        "id": "11245",
+        "slug": "hsc-28-physics-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-physics-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-physics-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-physics-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2500,
+          "min_final_price": 2000,
+          "max_price": 10000,
+          "max_final_price": 5000,
+          "text": "৳ 2000 <s>৳2500</s>"
+        },
+        "instructor_text": "Sabbir Ahmed Rifat +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 BEI: মাস্টারবুক বান্ডেল",
+        "id": "11244",
+        "slug": "hsc-28-bei:-masterbook",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_11_15_AM_1773530651036.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2000,
+          "min_final_price": 2000,
+          "max_price": 2000,
+          "max_final_price": 2000,
+          "text": "৳ 2000"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 শেষ মুহূর্তের প্রস্তুতি কোর্স (মানবিক বিভাগ)",
+        "id": "11243",
+        "slug": "hsc-28-sesh-muhurter-prostuti-humanities",
+        "order_idx": 0,
+        "modality": "",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_42_30_AM_1773531779482.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1000"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 শেষ মুহূর্তের প্রস্তুতি কোর্স (ব্যবসায় শিক্ষা বিভাগ)",
+        "id": "11242",
+        "slug": "hsc-28-sesh-muhurter-prostuti-business-studies",
+        "order_idx": 0,
+        "modality": "crash_course",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_42_30_AM_1773531779482.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1000"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 শেষ মুহূর্তের প্রস্তুতি কোর্স (বিজ্ঞান বিভাগ)",
+        "id": "11241",
+        "slug": "hsc-28-sesh-muhurter-prostuti-science",
+        "order_idx": 0,
+        "modality": "crash_course",
+        "media": [
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/ChatGPT_Image_Mar_15%2C_2026%2C_05_42_30_AM_1773531779482.png"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 1500,
+          "max_final_price": 1500,
+          "text": "৳ 1000"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ICT",
+        "id": "11239",
+        "slug": "hsc-28-ict-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-ict-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-ict-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-ict-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3000,
+          "min_final_price": 2500,
+          "max_price": 3000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳3000</s>"
+        },
+        "instructor_text": "Jaki Ahmed +1",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - ইংরেজি",
+        "id": "11238",
+        "slug": "hsc-english-28-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-english-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-english-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-english-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3000,
+          "min_final_price": 2500,
+          "max_price": 3000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳3000</s>"
+        },
+        "instructor_text": "Nayeem Durjoy +3",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ - বাংলা",
+        "id": "11237",
+        "slug": "hsc-28-bangla-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-bangla-online-batch-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-bangla-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/hsc-28-bangla-online-batch-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 3000,
+          "min_final_price": 2500,
+          "max_price": 3000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳3000</s>"
+        },
+        "instructor_text": "Ridwan Kabir Beacon +2",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ (জিওগ্রাফি, ইকোনমিক্স, পৌরনীতি)",
+        "id": "11236",
+        "slug": "hsc-28-online-batch-geography-economics-civics",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-geography-economics-civics-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-geography-economics-civics-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "SIVvpIGrpp8"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 15000,
+          "max_final_price": 10000,
+          "text": "৳5000 থেকে শুরু"
+        },
+        "instructor_text": "MD. Kaif +4",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "কোর্সটি করছেন ৫৭ জন"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "জিওগ্রাফি, ইকোনমিক্স, পৌরনীতির Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/cheatsheet-projectfile-exercisefile-sourcefile-resource.png",
+            "text": "লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/video-lecture.png",
+            "text": "HSC27 ব্যাচের আর্কাইভ ক্লাস দিয়ে স্মার্ট রিভিশন"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "মাস্টারবুক"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "AI Doubt Solver (TenTen)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "ডেইলি ও মান্থলি MCQ এক্সাম "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "Subject-wise Q&A Sessions"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/digital-book_work-book.png",
+            "text": "বিষয়ভিত্তিক ৩টি আলাদা ফেইসবুক গ্রুপে 24/7 কনফিউশন ক্লিয়ার"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ (ফাইন্যান্স, একাউন্টিং, ম্যানেজমেন্ট, মার্কেটিং)",
+        "id": "11235",
+        "slug": "hsc-28-online-batch-finance-accounting-management-marketing",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-finance-accounting-management-marketing-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-finance-accounting-management-marketing-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "SIVvpIGrpp8"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 17500,
+          "max_final_price": 12000,
+          "text": "৳7000 থেকে শুরু"
+        },
+        "instructor_text": "MD. Kaif +6",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/course_participants.png",
+            "text": "কোর্সটি করছেন ৫৭ জন"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "ফাইন্যান্স, অ্যাকাউন্টিং, ম্যানেজমেন্ট, মার্কেটিংয়ের Board-based A+ প্রস্তুতি\nলাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/video-lecture.png",
+            "text": "লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/task-assessment.png",
+            "text": "HSC27 ব্যাচের আর্কাইভ ক্লাস দিয়ে স্মার্ট রিভিশন"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "মাস্টারবুক "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/recovery-convert_1700380745094.png",
+            "text": "AI Doubt Solver (TenTen)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "ডেইলি ও মান্থলি MCQ এক্সাম "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/Interective_1700380360743.png",
+            "text": "Subject-wise Q&A Sessions "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "বিষয়ভিত্তিক ৪টি আলাদা ফেইসবুক গ্রুপে 24/7 কনফিউশন ক্লিয়ার"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ (ফিজিক্স, কেমিস্ট্রি, ম্যাথ, বায়োলজি)",
+        "id": "11234",
+        "slug": "hsc-28-online-batch-physics-chemistry-biology-higher-math",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-physics-chemistry-biology-higher-math-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-physics-chemistry-biology-higher-math-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "SIVvpIGrpp8"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 27500,
+          "max_final_price": 18400,
+          "text": "৳4500 থেকে শুরু"
+        },
+        "instructor_text": "Sumya Akter Mim +9",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "ফিজিক্স, কেমিস্ট্রি, ম্যাথ ও বায়োলজির Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "সপ্তাহে ৬ দিন লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি MCQ এক্সাম"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 28 অনলাইন ব্যাচ (বাংলা, ইংরেজি, তথ্য ও যোগাযোগ প্রযুক্তি)",
+        "id": "11233",
+        "slug": "hsc-28-online-batch-bangla-english-ict",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-bangla-english-ict-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/Thumbnails/hsc-28-ob-individual-course/bundle_new/hsc-28-online-batch-bangla-english-ict-online-batch-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "video",
+            "resource_value": "SIVvpIGrpp8"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 1000,
+          "min_final_price": 1000,
+          "max_price": 9000,
+          "max_final_price": 6000,
+          "text": "৳6000"
+        },
+        "instructor_text": "Nayeem Durjoy +7",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "বাংলা, ইংরেজি, ICT বিষয়ের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/video-lecture.png",
+            "text": "সপ্তাহে ৬ দিন লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "ডেইলি ও মান্থলি MCQ এক্সাম "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "বিষয়ভিত্তিক ৩টি আলাদা ফেইসবুক গ্রুপে 24/7 কনফিউশন ক্লিয়ার"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "Varsity B Unit (Humanities or Unit Change) - Master Book Bundle",
+        "id": "11232",
+        "slug": "varsity-b-unit-(humanities-or-unit-change)-master-book-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-nalp_1772527253118.jpeg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-naqd_1772527263383.jpeg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2100,
+          "min_final_price": 1500,
+          "max_price": 2100,
+          "max_final_price": 1500,
+          "text": "৳ 1500 <s>৳2100</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "Varsity A Unit (Science) - Master Book Bundle",
+        "id": "11231",
+        "slug": "varsity-a-unit-(science)-master-book-bundle",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-mxie_1772526710858.jpeg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-mxlg_1772526716123.jpeg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 2800,
+          "min_final_price": 2000,
+          "max_price": 2800,
+          "max_final_price": 2000,
+          "text": "৳ 2000 <s>৳2800</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "C Unit: Question Bank",
+        "id": "11230",
+        "slug": "c-unit:-question-bank",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Gemini_Generated_Image_wf73zmwf73zmwf73_1772523373665.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-mece_1772523441475.jpeg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 700,
+          "min_final_price": 500,
+          "max_price": 700,
+          "max_final_price": 500,
+          "text": "৳ 500 <s>৳700</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "B Unit: Question Bank",
+        "id": "11229",
+        "slug": "b-unit:-question-bank",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Gemini_Generated_Image_jmwwckjmwwckjmww_1772523148366.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-mctz_1772523211863.jpeg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 700,
+          "min_final_price": 500,
+          "max_price": 700,
+          "max_final_price": 500,
+          "text": "৳ 500 <s>৳700</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "A Unit : Question Bank",
+        "id": "11228",
+        "slug": "a-unit-:-question-bank",
+        "order_idx": 0,
+        "modality": "book",
+        "media": [
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/Gemini_Generated_Image_prg8mdprg8mdprg8_1772522925026.png"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/catalog/media/SCR-20260303-mbpj_1772523042533.jpeg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 700,
+          "min_final_price": 500,
+          "max_price": 700,
+          "max_final_price": 500,
+          "text": "৳ 500 <s>৳700</s>"
+        },
+        "instructor_text": "",
+        "checklist": [],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ - পৌরনীতি",
+        "id": "11227",
+        "slug": "hsc-27-civics-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-civics-sqr-thumbnail-new.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-civics-thumbnail-new.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-civics-sqr-thumbnail-new.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 4000,
+          "min_final_price": 2500,
+          "max_price": 4000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳4000</s>"
+        },
+        "instructor_text": "Mahbubul Newaz Farsim +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Community.png",
+            "text": "HSC ২০২৭ পরীক্ষার্থী (মানবিক)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "পৌরনীতি ১ম ও ২য় পত্রের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "লাইভ ক্লাস "
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "ফেসবুক কমিউনিটি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ - ইকোনমিক্স ২.০",
+        "id": "11226",
+        "slug": "hsc-27-economics-online-batch-2",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-economics-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-economics-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-economics-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 4000,
+          "min_final_price": 2500,
+          "max_price": 4000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳4000</s>"
+        },
+        "instructor_text": "MD. Kaif +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "ইকোনমিক্স ১ম ও ২য় পত্র এই ২টি বিষয়ের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "প্রতি সপ্তাহে ২টি লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/video-lecture.png",
+            "text": "ইকোনমিক্স ১.০ কোর্সের আর্কাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "ফেসবুক কমিউনিটি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ (পৌরনীতি ও ইকোনমিক্স ২.০)",
+        "id": "11225",
+        "slug": "hsc-27-civics-and-economics-online-batch-2",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-civics-and-economics-online-batch-2-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-civics-and-economics-online-batch-2-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-civics-and-economics-online-batch-2-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 5850,
+          "min_final_price": 4500,
+          "max_price": 11050,
+          "max_final_price": 8500,
+          "text": "৳ 4500 <s>৳5850</s>"
+        },
+        "instructor_text": "MD. Kaif +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "পৌরনীতি ১ম-২য়, ইকোনমিক্স ১ম-২য় এই ৪টি বিষয়ের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "প্রতি সপ্তাহে ৪টি লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/video-lecture.png",
+            "text": "ইকোনমিক্স ১.০ কোর্সের আর্কাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "ফেসবুক কমিউনিটি"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ - মার্কেটিং",
+        "id": "11224",
+        "slug": "hsc-27-marketing-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-marketing-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-marketing-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-marketing-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 4000,
+          "min_final_price": 2500,
+          "max_price": 4000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳4000</s>"
+        },
+        "instructor_text": "SMR Raiyan +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Community.png",
+            "text": "HSC ২০২৭ পরীক্ষার্থী (ব্যবসায় শিক্ষা)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "মার্কেটিং ১ম ও ২য় পত্রের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "প্রতি সপ্তাহে ২টি লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "ফেসবুক কমিউনিটি "
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ - ম্যানেজমেন্ট",
+        "id": "11223",
+        "slug": "hsc-27-management-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-management-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-management-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-online-batch-2-management-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 4000,
+          "min_final_price": 2500,
+          "max_price": 4000,
+          "max_final_price": 2500,
+          "text": "৳ 2500 <s>৳4000</s>"
+        },
+        "instructor_text": "MD. Kaif +1",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Community.png",
+            "text": "HSC ২০২৭ পরীক্ষার্থী (ব্যবসায় শিক্ষা)"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/subject.png",
+            "text": "ম্যানেজমেন্ট ১ম ও ২য় পত্রের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Flashcard.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "প্রতি সপ্তাহে ২টি লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          }
+        ],
+        "product_availability": ""
+      },
+      {
+        "title": "HSC 27 অনলাইন ব্যাচ (ম্যানেজমেন্ট ও মার্কেটিং)",
+        "id": "11222",
+        "slug": "hsc-27-management-and-marketing-online-batch",
+        "order_idx": 0,
+        "modality": "online_batch",
+        "media": [
+          {
+            "name": "thumbnail",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-management-and-marketing-online-batch-2-thumbnail.jpg"
+          },
+          {
+            "name": "sqr_img",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-management-and-marketing-online-batch-2-sqr-thumbnail.jpg"
+          },
+          {
+            "name": "preview_gallery",
+            "resource_type": "image",
+            "resource_value": "https://cdn.10minuteschool.com/images/thumbnails/HSC_OB_27/Batch_2/hsc-27-management-and-marketing-online-batch-2-thumbnail.jpg"
+          }
+        ],
+        "price_type": "paid",
+        "is_enrolled": false,
+        "price_details": {
+          "min_price": 5850,
+          "min_final_price": 4500,
+          "max_price": 11050,
+          "max_final_price": 8500,
+          "text": "৳ 4500 <s>৳5850</s>"
+        },
+        "instructor_text": "MD. Kaif +3",
+        "checklist": [
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Community.png",
+            "text": "ম্যানেজমেন্ট ১ম ও ২য়, মার্কেটিং ১ম ও ২য় পত্র এই ৪টি বিষয়ের Board-based A+ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/mock_test.png",
+            "text": "বোর্ড-প্যাটার্নে উত্তর লেখার প্র্যাকটিসের মাধ্যমে বেসিক Strong + CQ/MCQ প্রস্তুতি"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Live.png",
+            "text": "প্রতি সপ্তাহে ৪ টি লাইভ ক্লাস"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/book_1700380678988.png",
+            "text": "অধ্যায়ভিত্তিক গোছানো লেকচার শিট"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/Quiz.png",
+            "text": "ডেইলি ও মান্থলি এক্সাম"
+          },
+          {
+            "color": "black",
+            "icon": "https://cdn.10minuteschool.com/images/PDP/course-fact-icons/facebook-community.png",
+            "text": "ফেসবুক কমিউনিটি"
+          }
+        ],
+        "product_availability": ""
+      }
+    ],
+    "pagination_meta": {
+      "total_items": 861,
+      "item_count": 423,
+      "items_per_page": 100,
+      "total_page": 5,
+      "current_page": 1
+    }
+  },
+  "error": [],
+  "message": "Success",
+  "payload": [],
+  "status_code": 200
+}
